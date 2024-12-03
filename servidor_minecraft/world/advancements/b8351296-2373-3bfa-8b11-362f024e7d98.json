@@ -1,13 +1,50 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:27:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-12-03 23:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mangrove_swamp": "2024-12-03 23:37:08 +0000",
+      "minecraft:sparse_jungle": "2024-12-03 23:34:54 +0000",
+      "minecraft:river": "2024-12-03 23:26:57 +0000",
+      "minecraft:forest": "2024-12-03 23:27:01 +0000",
+      "minecraft:jungle": "2024-12-03 23:33:19 +0000",
+      "minecraft:windswept_savanna": "2024-12-03 23:37:01 +0000",
+      "minecraft:savanna": "2024-12-03 23:23:42 +0000",
+      "minecraft:plains": "2024-12-03 23:23:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-03 23:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2024-12-03 23:25:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-03 23:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-03 23:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-03 23:26:20 +0000"
     },
     "done": true
   },
@@ -17,15 +54,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
-      "diamond_helmet": "2024-12-03 23:25:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2024-12-03 23:26:20 +0000"
+      "in_water": "2024-12-03 23:27:48 +0000"
     },
     "done": true
   },
@@ -41,21 +72,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-03 23:25:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2024-12-03 23:26:57 +0000",
-      "minecraft:forest": "2024-12-03 23:27:01 +0000",
-      "minecraft:savanna": "2024-12-03 23:23:42 +0000",
-      "minecraft:plains": "2024-12-03 23:23:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2024-12-03 23:27:48 +0000"
@@ -65,18 +81,6 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-03 23:27:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "golden_apple": "2024-12-03 23:25:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-03 23:25:16 +0000"
     },
     "done": true
   },
@@ -101,6 +105,30 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-03 23:27:48 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2024-12-03 23:52:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-03 23:52:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-03 23:52:27 +0000"
+    },
+    "done": true
+  },
+  "the_darkness_will_find_you:the_darkness_will_find_you": {
+    "criteria": {
+      "always": "2024-12-03 23:52:28 +0000"
     },
     "done": true
   },

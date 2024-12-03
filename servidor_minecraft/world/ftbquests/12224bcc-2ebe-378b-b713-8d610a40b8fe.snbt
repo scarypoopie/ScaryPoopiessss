@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "12224bcc2ebe378bb7138d610a40b8fe"
+	name: "OscarJapi#12224bcc"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

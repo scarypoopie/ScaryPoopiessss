@@ -1,0 +1,17 @@
+{
+	id: "b8351296-2373-3bfa-8b11-362f024e7d98"
+	type: "player"
+	player_name: "Kl0udyy"
+	ranks: {
+		b8351296-2373-3bfa-8b11-362f024e7d98: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Kl0udyy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
