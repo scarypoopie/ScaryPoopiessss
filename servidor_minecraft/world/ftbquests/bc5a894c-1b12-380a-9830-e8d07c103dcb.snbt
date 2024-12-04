@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "bc5a894c1b12380a9830e8d07c103dcb"
+	name: "poopy8#bc5a894c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

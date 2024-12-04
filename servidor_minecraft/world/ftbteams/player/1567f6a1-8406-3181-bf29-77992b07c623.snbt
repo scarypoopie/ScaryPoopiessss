@@ -1,0 +1,17 @@
+{
+	id: "1567f6a1-8406-3181-bf29-77992b07c623"
+	type: "player"
+	player_name: "TheMasterRoshiii"
+	ranks: {
+		1567f6a1-8406-3181-bf29-77992b07c623: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheMasterRoshiii"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F959FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

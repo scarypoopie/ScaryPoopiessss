@@ -1,0 +1,40 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-04 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2024-12-04 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-04 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-04 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "the_darkness_will_find_you:the_darkness_will_find_you": {
+    "criteria": {
+      "always": "2024-12-04 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2024-12-04 18:47:52 +0000",
+      "minecraft:plains": "2024-12-04 18:46:05 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

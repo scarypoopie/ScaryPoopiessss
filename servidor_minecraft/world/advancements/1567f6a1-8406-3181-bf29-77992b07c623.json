@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:bamboo_jungle": "2024-12-03 23:36:55 +0000",
+      "minecraft:mangrove_swamp": "2024-12-04 18:56:41 +0000",
       "minecraft:sparse_jungle": "2024-12-03 23:26:58 +0000",
       "minecraft:river": "2024-12-03 23:26:41 +0000",
       "minecraft:forest": "2024-12-03 23:26:50 +0000",
@@ -166,6 +167,30 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-03 23:26:39 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2024-12-04 18:49:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-04 18:49:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-04 18:49:16 +0000"
+    },
+    "done": true
+  },
+  "the_darkness_will_find_you:the_darkness_will_find_you": {
+    "criteria": {
+      "always": "2024-12-04 18:49:16 +0000"
     },
     "done": true
   },
