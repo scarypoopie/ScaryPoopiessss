@@ -5820,3 +5820,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 20:18:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to Kl0udyy]
 [04Dec2024 20:18:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to Kl0udyy]
 [04Dec2024 20:18:14.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported 4 entities to TheMasterRoshiii]
+[04Dec2024 20:19:05.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi lost connection: Disconnected
+[04Dec2024 20:19:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi left the game
+[04Dec2024 20:19:05.149] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of OscarJapi
+[04Dec2024 20:19:05.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client OscarJapi
+[04Dec2024 20:19:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Stopping the server]
+[04Dec2024 20:19:10.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Dec2024 20:19:10.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Dec2024 20:19:11.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Dec2024 20:19:11.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Dec2024 20:19:13.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[04Dec2024 20:19:13.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Dec2024 20:19:13.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Dec2024 20:19:13.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 20:19:13.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Dec2024 20:19:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Dec2024 20:19:13.362] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
