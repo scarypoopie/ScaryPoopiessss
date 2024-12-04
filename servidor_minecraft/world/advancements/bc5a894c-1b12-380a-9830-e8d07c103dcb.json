@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-04 19:11:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-04 18:46:04 +0000"
@@ -26,6 +32,18 @@
   "the_darkness_will_find_you:the_darkness_will_find_you": {
     "criteria": {
       "always": "2024-12-04 18:46:04 +0000"
+    },
+    "done": true
+  },
+  "watching:main/root": {
+    "criteria": {
+      "requirement": "2024-12-04 19:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-04 19:05:51 +0000"
     },
     "done": true
   },
