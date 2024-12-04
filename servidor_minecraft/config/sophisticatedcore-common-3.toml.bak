@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:void_upgrade|true", "sophisticatedbackpacks:stonecutter_upgrade|true", "sophisticatedbackpacks:advanced_magnet_upgrade|true", "sophisticatedbackpacks:advanced_compacting_upgrade|true", "sophisticatedbackpacks:stack_upgrade_starter_tier|true", "sophisticatedbackpacks:blasting_upgrade|true"]
+

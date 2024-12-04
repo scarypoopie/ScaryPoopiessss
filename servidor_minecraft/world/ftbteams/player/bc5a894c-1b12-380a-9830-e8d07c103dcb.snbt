@@ -1,0 +1,17 @@
+{
+	id: "bc5a894c-1b12-380a-9830-e8d07c103dcb"
+	type: "player"
+	player_name: "poopy8"
+	ranks: {
+		bc5a894c-1b12-380a-9830-e8d07c103dcb: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "poopy8"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9859"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
