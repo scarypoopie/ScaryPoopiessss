@@ -5758,3 +5758,65 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 20:07:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Power V to poopy8's item]
 [04Dec2024 20:08:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
 [04Dec2024 20:08:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Flame to poopy8's item]
+[04Dec2024 20:08:33.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Infinity to poopy8's item]
+[04Dec2024 20:08:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> oa
+[04Dec2024 20:09:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> awebo awebo
+[04Dec2024 20:09:11.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to poopy8]
+[04Dec2024 20:09:21.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ño
+[04Dec2024 20:09:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> un empujoncito
+[04Dec2024 20:09:39.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Summoned new Banana Slug]
+[04Dec2024 20:09:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que mmda
+[04Dec2024 20:09:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> si
+[04Dec2024 20:09:53.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> por afk aparecieron 2 bichos
+[04Dec2024 20:09:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> smilers
+[04Dec2024 20:10:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> haya
+[04Dec2024 20:10:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Convergent Evolution...]
+[04Dec2024 20:10:14.574] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 1567f6a1-8406-3181-bf29-77992b07c623 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, length=104, extra={valid=true}}, startingAt=0, player=null}
+[04Dec2024 20:10:16.849] [Netty Epoll Server IO #5/DEBUG] [emotecraft/]: [emotes server] Received data from: 1567f6a1-8406-3181-bf29-77992b07c623 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=a2969c42-520f-4c5c-a024-a7d0a2b7b4d1, emoteData=null, startingAt=0, player=null}
+[04Dec2024 20:10:21.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Added 100.0 sanity to poopy8]
+[04Dec2024 20:10:26.229] [Server thread/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[04Dec2024 20:10:26.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Reloaded dimension configs successfully]
+[04Dec2024 20:10:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:10:50.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to 4 targets]
+[04Dec2024 20:10:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> para ver mejor
+[04Dec2024 20:11:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Applied effect Night Vision to OscarJapi]
+[04Dec2024 20:11:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chom
+[04Dec2024 20:11:30.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Spectator Mode]
+[04Dec2024 20:11:59.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
+[04Dec2024 20:12:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> me jui a un lugar majico
+[04Dec2024 20:12:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Stay dead]
+[04Dec2024 20:12:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ke rico el ay cabron
+[04Dec2024 20:12:52.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 20:12:52.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 20:13:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:17.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:18.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:19.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:19.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:19.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:13:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Take Aim]
+[04Dec2024 20:13:46.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Tunnel Treasures]
+[04Dec2024 20:13:47.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Gave 20 [Anvil] to OscarJapi]
+[04Dec2024 20:13:51.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Acquire Hardware]
+[04Dec2024 20:13:54.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> wao
+[04Dec2024 20:14:17.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> me encanta esta armadura
+[04Dec2024 20:14:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> doble salto y no tengo daño de caida
+[04Dec2024 20:14:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> aguanto mas las explosiones y asi
+[04Dec2024 20:14:40.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> steampunk
+[04Dec2024 20:14:56.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
+[04Dec2024 20:15:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> se crafteaba segun yo
+[04Dec2024 20:15:18.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> segun lo visto si
+[04Dec2024 20:15:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> custom crafting creo
+[04Dec2024 20:15:57.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Ghost! Ghost! Toast?]
+[04Dec2024 20:15:58.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to poopy8]
+[04Dec2024 20:16:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Ghost! Ghost! Toast?]
+[04Dec2024 20:17:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
+[04Dec2024 20:17:26.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
+[04Dec2024 20:17:52.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Dec2024 20:17:52.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Dec2024 20:18:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to Kl0udyy]
+[04Dec2024 20:18:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to Kl0udyy]
+[04Dec2024 20:18:14.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported 4 entities to TheMasterRoshiii]
