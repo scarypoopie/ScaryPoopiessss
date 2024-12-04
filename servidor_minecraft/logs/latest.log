@@ -875,3 +875,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Dec2024 19:57:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [I'm on Singleplayer Right?]
 [04Dec2024 19:57:36.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied enchantment Efficiency V to 4 entities]
 [04Dec2024 19:58:00.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Applied effect Haste to poopy8]
+[04Dec2024 19:58:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim chim
+[04Dec2024 19:58:23.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to 4 targets]
+[04Dec2024 19:58:25.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:25.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
+[04Dec2024 19:58:28.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10085, y=38, z=11765} BlockPos{x=10085, y=37, z=11765}
+[04Dec2024 19:58:33.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10079, y=42, z=11752} BlockPos{x=10079, y=40, z=11751}
+[04Dec2024 19:58:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> es arriba
+[04Dec2024 19:58:41.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10090, y=48, z=11760} BlockPos{x=10090, y=46, z=11761}
+[04Dec2024 19:58:42.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=32, z=11748} BlockPos{x=10081, y=28, z=11749}
+[04Dec2024 19:58:42.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=32, z=11748} BlockPos{x=10080, y=29, z=11749}
+[04Dec2024 19:58:42.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=32, z=11748} BlockPos{x=10081, y=31, z=11749}
+[04Dec2024 19:58:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to poopy8]
+[04Dec2024 19:58:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no pero arriba salian muchos caminos
+[04Dec2024 19:59:02.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Stay dead]
+[04Dec2024 19:59:35.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii was slain by Doppelganger Creeper
+[04Dec2024 20:00:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Bow] to poopy8]
+[04Dec2024 20:01:32.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 100 [Garland] to poopy8]
+[04Dec2024 20:02:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Added 100.0 sanity to poopy8]
+[04Dec2024 20:02:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to poopy8]
+[04Dec2024 20:02:51.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed 218 entities]
+[04Dec2024 20:03:12.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to TheMasterRoshiii]
+[04Dec2024 20:03:38.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> y a donde fueron todos
+[04Dec2024 20:03:46.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
+[04Dec2024 20:05:16.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [He's Watching...]
+[04Dec2024 20:05:17.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Diamond Backpack] to poopy8]
+[04Dec2024 20:06:15.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Boots] to TheMasterRoshiii]
+[04Dec2024 20:06:32.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Boots] to TheMasterRoshiii]
+[04Dec2024 20:06:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Rotting Stalker
+[04Dec2024 20:07:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Boots] to TheMasterRoshiii]
+[04Dec2024 20:07:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Chestplate] to TheMasterRoshiii]
+[04Dec2024 20:07:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Leggings] to TheMasterRoshiii]
+[04Dec2024 20:07:47.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Helmet] to TheMasterRoshiii]
+[04Dec2024 20:07:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Power V to poopy8's item]
+[04Dec2024 20:08:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
+[04Dec2024 20:08:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Flame to poopy8's item]
