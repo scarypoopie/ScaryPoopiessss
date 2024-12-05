@@ -2641,3 +2641,85 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 05:37:40.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> MIRA
 [05Dec2024 05:37:47.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> al fiiiiiiiiiiiiiiiin
 [05Dec2024 05:37:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> WATEFOK
+[05Dec2024 05:37:56.914] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=-1917, y=41, z=1103}
+[05Dec2024 05:37:56.916] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=-1917, y=40, z=1103}
+[05Dec2024 05:37:56.916] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=-1916, y=41, z=1103}
+[05Dec2024 05:37:56.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=-1917, y=39, z=1103}
+[05Dec2024 05:37:56.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=-1916, y=40, z=1103}
+[05Dec2024 05:37:56.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=-1915, y=41, z=1103}
+[05Dec2024 05:37:56.918] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=-1917, y=38, z=1103}
+[05Dec2024 05:37:56.918] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=-1916, y=39, z=1103}
+[05Dec2024 05:37:56.918] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=-1915, y=40, z=1103}
+[05Dec2024 05:37:56.919] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=-1915, y=39, z=1103}
+[05Dec2024 05:37:56.919] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=-1915, y=38, z=1103}
+[05Dec2024 05:38:02.682] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=-1577, y=36, z=1117}
+[05Dec2024 05:38:02.682] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=-1576, y=37, z=1117}
+[05Dec2024 05:38:02.683] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=-1575, y=38, z=1117}
+[05Dec2024 05:38:02.683] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=-1575, y=37, z=1117}
+[05Dec2024 05:38:02.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=-1575, y=36, z=1117}
+[05Dec2024 05:38:02.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=-1577, y=39, z=1117}
+[05Dec2024 05:38:02.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=-1577, y=38, z=1117}
+[05Dec2024 05:38:02.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=-1576, y=39, z=1117}
+[05Dec2024 05:38:02.684] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=-1577, y=37, z=1117}
+[05Dec2024 05:38:02.685] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=-1576, y=38, z=1117}
+[05Dec2024 05:38:02.685] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=-1575, y=39, z=1117}
+[05Dec2024 05:38:04.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Chompy]
+[05Dec2024 05:38:18.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Hanging Tree]
+[05Dec2024 05:38:19.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:38:19.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:38:28.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> returbio..
+[05Dec2024 05:38:32.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Hanging Tree]
+[05Dec2024 05:38:43.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> xd
+[05Dec2024 05:38:52.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> le pego?
+[05Dec2024 05:39:08.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> no esto si esta turbio
+[05Dec2024 05:40:34.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> WOW
+[05Dec2024 05:40:37.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> q
+[05Dec2024 05:41:28.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> un tp?
+[05Dec2024 05:41:35.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> shim
+[05Dec2024 05:41:43.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Teleported poopy8 to SoulO_Q]
+[05Dec2024 05:42:49.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Crops of the Wild]
+[05Dec2024 05:43:08.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> mimimi?
+[05Dec2024 05:43:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Sweet Dreams]
+[05Dec2024 05:43:19.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:43:19.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:43:33.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> tengo vision nocturna eterna XD
+[05Dec2024 05:43:40.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> como? :o
+[05Dec2024 05:43:45.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> oscar nos la puso antes
+[05Dec2024 05:43:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> aaa
+[05Dec2024 05:43:58.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> tonces no se cuando e snoche
+[05Dec2024 05:44:38.559] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
+[05Dec2024 05:44:38.561] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
+[05Dec2024 05:45:04.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> bajamos?
+[05Dec2024 05:45:23.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> XD
+[05Dec2024 05:45:30.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> AAA ES UNA TRAMPA
+[05Dec2024 05:45:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> espera
+[05Dec2024 05:45:55.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> tienes que ver
+[05Dec2024 05:46:20.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> veeen
+[05Dec2024 05:46:44.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> esto??
+[05Dec2024 05:46:52.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> whaaaat
+[05Dec2024 05:46:59.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> se buggep
+[05Dec2024 05:48:15.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Is Someone Following Me?]
+[05Dec2024 05:48:19.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:48:19.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:48:51.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> no hay mas
+[05Dec2024 05:48:57.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> arriba creo
+[05Dec2024 05:49:24.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> no hay nada
+[05Dec2024 05:49:28.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> XD
+[05Dec2024 05:50:09.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> aca
+[05Dec2024 05:50:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> me vas a matar xde
+[05Dec2024 05:50:33.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> perdonn
+[05Dec2024 05:50:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> sube
+[05Dec2024 05:51:54.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Disme A Dozen]
+[05Dec2024 05:52:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> no tengo antorchas xd
+[05Dec2024 05:53:19.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:53:19.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:55:57.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> perdon xd
+[05Dec2024 05:56:11.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> por
+[05Dec2024 05:56:21.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> ando distraido
+[05Dec2024 05:56:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> como le haces pa saber donde estan?
+[05Dec2024 05:56:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> wtf xd
+[05Dec2024 05:56:52.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> donde estan que
+[05Dec2024 05:56:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> las habitaciones
+[05Dec2024 05:57:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> solo vi el pasillo
+[05Dec2024 05:57:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> a
+[05Dec2024 05:57:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> busquemos mas
