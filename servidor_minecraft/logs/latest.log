@@ -1,91 +1,90 @@
-[04Dec2024 18:37:06.866] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[04Dec2024 18:37:06.869] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[04Dec2024 18:37:07.931] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[04Dec2024 18:37:08.072] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ScaryPoopiessss/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[04Dec2024 18:37:08.631] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 18:37:08.634] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 18:37:08.635] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 18:37:08.636] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[04Dec2024 18:37:09.591] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[04Dec2024 18:37:12.150] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[04Dec2024 18:37:12.267] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[04Dec2024 18:37:12.267] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[04Dec2024 18:37:12.317] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[04Dec2024 18:37:14.144] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[04Dec2024 18:37:15.354] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zgh000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04Dec2024 18:37:21.787] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@67d7a4b5!
-[04Dec2024 18:37:21.903] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[04Dec2024 18:37:21.983] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[04Dec2024 18:37:21.985] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[04Dec2024 18:37:21.987] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[04Dec2024 18:37:21.988] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[04Dec2024 18:37:21.990] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[04Dec2024 18:37:21.991] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[04Dec2024 18:37:21.993] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[04Dec2024 18:37:21.994] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[04Dec2024 18:37:22.189] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[04Dec2024 18:37:22.281] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[04Dec2024 18:37:22.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[04Dec2024 18:37:22.284] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[04Dec2024 18:37:22.286] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[04Dec2024 18:37:22.287] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[04Dec2024 18:37:22.309] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[04Dec2024 18:37:22.320] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[04Dec2024 18:37:22.320] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[04Dec2024 18:37:22.327] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[04Dec2024 18:37:22.327] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[04Dec2024 18:37:22.368] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
-[04Dec2024 18:37:22.369] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
-[04Dec2024 18:37:22.371] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
-[04Dec2024 18:37:22.373] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
-[04Dec2024 18:37:22.376] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
-[04Dec2024 18:37:22.378] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
-[04Dec2024 18:37:22.379] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
-[04Dec2024 18:37:22.380] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
-[04Dec2024 18:37:22.381] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
-[04Dec2024 18:37:22.382] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
-[04Dec2024 18:37:22.396] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
-[04Dec2024 18:37:22.397] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
-[04Dec2024 18:37:22.397] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
-[04Dec2024 18:37:22.404] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
-[04Dec2024 18:37:22.407] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
-[04Dec2024 18:37:22.411] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
-[04Dec2024 18:37:22.412] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
-[04Dec2024 18:37:22.413] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
-[04Dec2024 18:37:22.414] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
-[04Dec2024 18:37:22.415] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
-[04Dec2024 18:37:22.423] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
-[04Dec2024 18:37:22.427] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
-[04Dec2024 18:37:22.433] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
-[04Dec2024 18:37:22.434] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
-[04Dec2024 18:37:22.436] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
-[04Dec2024 18:37:24.026] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[04Dec2024 18:37:24.029] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
-[04Dec2024 18:37:24.168] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[04Dec2024 18:37:24.306] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[04Dec2024 18:37:24.336] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[04Dec2024 18:37:24.337] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[04Dec2024 18:37:24.374] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[04Dec2024 18:37:24.382] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'simpleradio'
-[04Dec2024 18:37:24.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[04Dec2024 18:37:24.900] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@67d7a4b5!
-[04Dec2024 18:37:24.920] [modloading-worker-0/INFO] [Lexiconfig/]: Lexiconfig cataloging completed!
-[04Dec2024 18:37:24.971] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.26 Target: null
-[04Dec2024 18:37:24.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[04Dec2024 18:37:25.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[04Dec2024 18:37:25.214] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[04Dec2024 18:37:25.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.17 Target: null
-[04Dec2024 18:37:25.317] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
-[04Dec2024 18:37:25.348] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
-[04Dec2024 18:37:26.916] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04Dec2024 18:37:28.281] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
-[04Dec2024 18:37:28.282] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
-[04Dec2024 18:37:28.314] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zgl000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[04Dec2024 18:37:30.318] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
-[04Dec2024 18:37:30.352] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[04Dec2024 18:37:31.413] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/ScaryPoopiessss/servidor_minecraft/config/sophisticatedcore-common.toml is not correct. Correcting
-[04Dec2024 18:37:31.598] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[04Dec2024 18:37:31.600] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[05Dec2024 04:37:33.272] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[05Dec2024 04:37:33.277] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[05Dec2024 04:37:34.417] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[05Dec2024 04:37:34.496] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ScaryPoopiessss/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[05Dec2024 04:37:34.901] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 04:37:34.904] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 04:37:34.906] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 04:37:34.908] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[05Dec2024 04:37:35.115] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[05Dec2024 04:37:37.586] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Dec2024 04:37:37.770] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[05Dec2024 04:37:37.774] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Dec2024 04:37:37.825] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Dec2024 04:37:39.760] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[05Dec2024 04:37:41.472] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinEntity::handler$zgh000$move exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Dec2024 04:37:49.396] [modloading-worker-0/INFO] [Lexiconfig/]: Shelved lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@760ee650!
+[05Dec2024 04:37:49.516] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[05Dec2024 04:37:49.688] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Dec2024 04:37:49.706] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[05Dec2024 04:37:49.715] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[05Dec2024 04:37:49.723] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[05Dec2024 04:37:49.724] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[05Dec2024 04:37:49.725] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[05Dec2024 04:37:49.726] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[05Dec2024 04:37:49.728] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[05Dec2024 04:37:50.078] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[05Dec2024 04:37:50.261] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[05Dec2024 04:37:50.281] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[05Dec2024 04:37:50.282] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[05Dec2024 04:37:50.283] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[05Dec2024 04:37:50.285] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[05Dec2024 04:37:50.300] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[05Dec2024 04:37:50.311] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[05Dec2024 04:37:50.322] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[05Dec2024 04:37:50.342] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[05Dec2024 04:37:50.342] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[05Dec2024 04:37:50.449] [modloading-worker-0/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
+[05Dec2024 04:37:50.480] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:submit_task
+[05Dec2024 04:37:50.480] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_reward
+[05Dec2024 04:37:50.499] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:get_emergency_items
+[05Dec2024 04:37:50.500] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_all_rewards
+[05Dec2024 04:37:50.501] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:claim_choice_reward
+[05Dec2024 04:37:50.503] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_pinned
+[05Dec2024 04:37:50.504] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_chapter_pinned
+[05Dec2024 04:37:50.505] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:toggle_editing_mode
+[05Dec2024 04:37:50.506] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:force_save
+[05Dec2024 04:37:50.507] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:set_custom_image
+[05Dec2024 04:37:50.515] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:task_screen_config_resp
+[05Dec2024 04:37:50.516] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_progress
+[05Dec2024 04:37:50.522] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_object
+[05Dec2024 04:37:50.527] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:create_task_at
+[05Dec2024 04:37:50.528] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:delete_object
+[05Dec2024 04:37:50.529] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:edit_object
+[05Dec2024 04:37:50.530] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter
+[05Dec2024 04:37:50.531] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_quest
+[05Dec2024 04:37:50.536] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:change_chapter_group
+[05Dec2024 04:37:50.537] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:move_chapter_group
+[05Dec2024 04:37:50.541] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_quest
+[05Dec2024 04:37:50.547] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:copy_chapter_image
+[05Dec2024 04:37:50.547] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:sync_structures_request
+[05Dec2024 04:37:50.549] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbquests:request_team_data
+[05Dec2024 04:37:52.845] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[05Dec2024 04:37:52.848] [modloading-worker-0/INFO] [io.github.jamalam360.rightclickharvest.RightClickHarvestModInit/]: Initialized
+[05Dec2024 04:37:52.976] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[05Dec2024 04:37:53.111] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[05Dec2024 04:37:53.149] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[05Dec2024 04:37:53.150] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[05Dec2024 04:37:53.178] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[05Dec2024 04:37:53.182] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'simpleradio'
+[05Dec2024 04:37:53.424] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[05Dec2024 04:37:53.953] [modloading-worker-0/INFO] [Lexiconfig/]: Cataloging lexicon com.codinglitch.simpleradio.SimpleRadioServerConfig@760ee650!
+[05Dec2024 04:37:54.016] [modloading-worker-0/INFO] [Lexiconfig/]: Lexiconfig cataloging completed!
+[05Dec2024 04:37:54.136] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.26 Target: null
+[05Dec2024 04:37:54.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Dec2024 04:37:54.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[05Dec2024 04:37:54.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[05Dec2024 04:37:54.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.17 Target: null
+[05Dec2024 04:37:54.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Starting version check at https://raw.githubusercontent.com/croissantnova/SanityDescentIntoMadness/main/update.json
+[05Dec2024 04:37:54.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sanitydim] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[05Dec2024 04:37:56.694] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Dec2024 04:37:58.382] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/assets/.mcassetsroot' uses unexpected schema
+[05Dec2024 04:37:58.383] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ScaryPoopiessss/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23175!/data/.mcassetsroot' uses unexpected schema
+[05Dec2024 04:37:58.430] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on sanitydim.mixins.json:MixinServerPlayerGameMode::handler$zgl000$destroyBlock exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[05Dec2024 04:38:00.733] [main/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[05Dec2024 04:38:00.773] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[05Dec2024 04:38:02.273] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[05Dec2024 04:38:02.273] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -101,896 +100,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23175!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[04Dec2024 18:37:31.756] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2775 advancements
-[04Dec2024 18:37:31.766] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[04Dec2024 18:37:31.770] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[04Dec2024 18:37:33.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[04Dec2024 18:37:33.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[04Dec2024 18:37:33.093] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[04Dec2024 18:37:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[04Dec2024 18:37:33.275] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[04Dec2024 18:37:33.306] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[04Dec2024 18:37:33.390] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04Dec2024 18:37:33.391] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[04Dec2024 18:37:33.391] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04Dec2024 18:37:33.391] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[04Dec2024 18:37:33.540] [Server thread/INFO] [FTB Teams/]: loaded team data: 2 known players, 2 teams total
-[04Dec2024 18:37:33.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[04Dec2024 18:37:34.305] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[04Dec2024 18:37:38.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[04Dec2024 18:37:39.876] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[04Dec2024 18:37:39.883] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[04Dec2024 18:37:39.886] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[04Dec2024 18:37:42.468] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.516] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.546] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.560] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.568] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.579] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.586] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:42.700] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[04Dec2024 18:37:43.257] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[04Dec2024 18:37:43.359] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[04Dec2024 18:37:43.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
-[04Dec2024 18:37:44.730] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[04Dec2024 18:37:44.940] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[04Dec2024 18:37:44.942] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[04Dec2024 18:37:45.208] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 23%
-[04Dec2024 18:37:45.700] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
-[04Dec2024 18:37:46.217] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
-[04Dec2024 18:37:47.056] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
-[04Dec2024 18:37:47.228] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
-[04Dec2024 18:37:47.853] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[04Dec2024 18:37:48.155] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9455 ms
-[04Dec2024 18:37:48.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.751s)! For help, type "help"
-[04Dec2024 18:37:48.188] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[04Dec2024 18:37:48.206] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[04Dec2024 18:37:48.215] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
-[04Dec2024 18:38:26.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2bdf70a8[id=<null>,name=Kl0udyy,properties={},legacy=false] (/127.213.27.136:40553) lost connection: Disconnected
-[04Dec2024 18:38:38.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OscarJapi[/127.182.58.186:43579] logged in with entity id 204 at (-87.31781317384574, 66.0, -22.380474850212625)
-[04Dec2024 18:38:38.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi joined the game
-[04Dec2024 18:38:38.837] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of OscarJapi (18)
-[04Dec2024 18:38:38.839] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to OscarJapi
-[04Dec2024 18:42:21.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set OscarJapi's sanity to 100.0]
-[04Dec2024 18:42:29.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Gave 1 [Golden Apple] to OscarJapi]
-[04Dec2024 18:42:33.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Gave 1 [Golden Apple] to OscarJapi]
-[04Dec2024 18:43:47.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
-[04Dec2024 18:44:37.548] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2072126b[id=<null>,name=TheMasterRoshiii,properties={},legacy=false] (/127.3.80.124:43549) lost connection: Disconnected
-[04Dec2024 18:45:19.148] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3c6df9f[id=<null>,name=TheMasterRoshiii,properties={},legacy=false] (/127.3.80.124:36873) lost connection: Disconnected
-[04Dec2024 18:45:24.653] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3be70709[id=<null>,name=TheMasterRoshiii,properties={},legacy=false] (/127.3.80.124:43569) lost connection: Disconnected
-[04Dec2024 18:45:32.548] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36db1bc5[id=<null>,name=TheMasterRoshiii,properties={},legacy=false] (/127.3.80.124:55455) lost connection: Disconnected
-[04Dec2024 18:46:04.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:38345] logged in with entity id 2898 at (2.5, 64.0, 3.5)
-[04Dec2024 18:46:04.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
-[04Dec2024 18:46:06.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to poopy8]
-[04Dec2024 18:46:10.279] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
-[04Dec2024 18:46:10.281] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
-[04Dec2024 18:46:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set the time to 1000]
-[04Dec2024 18:46:28.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kl0udyy[/127.213.27.136:35385] logged in with entity id 3037 at (377.0055495119617, 70.0, 2262.435110102349)
-[04Dec2024 18:46:28.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy joined the game
-[04Dec2024 18:46:29.991] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kl0udyy (18)
-[04Dec2024 18:46:29.993] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
-[04Dec2024 18:46:37.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=1, y=63, z=1}
-[04Dec2024 18:46:42.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=63, z=1}
-[04Dec2024 18:46:46.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported Kl0udyy to OscarJapi]
-[04Dec2024 18:46:52.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Removed 889 item(s) from player Kl0udyy]
-[04Dec2024 18:46:52.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=3, y=62, z=7}
-[04Dec2024 18:46:53.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-3, y=63, z=5}
-[04Dec2024 18:47:40.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Creative Mode]
-[04Dec2024 18:47:46.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=63, z=-1}
-[04Dec2024 18:47:46.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Made p a server operator]
-[04Dec2024 18:47:47.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=63, z=2}
-[04Dec2024 18:47:47.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=63, z=2}
-[04Dec2024 18:47:47.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=2}
-[04Dec2024 18:47:47.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=2}
-[04Dec2024 18:47:48.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=2}
-[04Dec2024 18:47:48.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=1}
-[04Dec2024 18:47:48.420] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=63, z=-1}
-[04Dec2024 18:47:48.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=63, z=4}
-[04Dec2024 18:47:48.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=63, z=4}
-[04Dec2024 18:47:49.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=63, z=4}
-[04Dec2024 18:47:49.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-12, y=63, z=4}
-[04Dec2024 18:47:49.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=63, z=3}
-[04Dec2024 18:47:49.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Made poopy8 a server operator]
-[04Dec2024 18:47:49.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-11, y=63, z=3}
-[04Dec2024 18:48:26.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Set own game mode to Creative Mode]
-[04Dec2024 18:49:16.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:47445] logged in with entity id 3905 at (-1255.1040353207381, 70.0, -447.51064559527833)
-[04Dec2024 18:49:16.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
-[04Dec2024 18:49:18.665] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
-[04Dec2024 18:49:18.667] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
-[04Dec2024 18:49:33.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Disconnected
-[04Dec2024 18:49:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
-[04Dec2024 18:49:33.936] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
-[04Dec2024 18:51:30.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> poopy8 xd
-[04Dec2024 18:51:31.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> q pendeja
-[04Dec2024 18:51:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ?
-[04Dec2024 18:51:52.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> perenme
-[04Dec2024 18:51:59.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> carga tu celu
-[04Dec2024 18:52:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Played sound minecraft:entity.creeper.primed to Kl0udyy]
-[04Dec2024 18:53:12.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set poopy8's game mode to Survival Mode]
-[04Dec2024 18:53:41.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:42931] logged in with entity id 4899 at (-1255.1040353207381, 70.0, -447.51064559527833)
-[04Dec2024 18:53:41.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
-[04Dec2024 18:53:43.241] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
-[04Dec2024 18:53:43.243] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
-[04Dec2024 18:53:58.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported poopy8 to OscarJapi]
-[04Dec2024 18:53:59.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 18:54:01.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported poopy8 to OscarJapi]
-[04Dec2024 18:54:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set poopy8's game mode to Creative Mode]
-[04Dec2024 18:54:09.853] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=-1457, y=31, z=-358}
-[04Dec2024 18:54:09.853] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=-1457, y=33, z=-356}
-[04Dec2024 18:54:09.853] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=-1457, y=31, z=-357}
-[04Dec2024 18:54:09.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=-1457, y=33, z=-358}
-[04Dec2024 18:54:09.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=-1457, y=33, z=-357}
-[04Dec2024 18:54:09.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=-1457, y=31, z=-356}
-[04Dec2024 18:54:09.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=-1457, y=32, z=-357}
-[04Dec2024 18:54:09.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=-1457, y=30, z=-358}
-[04Dec2024 18:54:09.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=-1457, y=32, z=-356}
-[04Dec2024 18:54:09.855] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=-1457, y=32, z=-358}
-[04Dec2024 18:54:09.856] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=-1457, y=30, z=-356}
-[04Dec2024 18:54:14.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> nono
-[04Dec2024 18:54:19.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> entre y me asuste
-[04Dec2024 18:54:24.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no
-[04Dec2024 18:54:29.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ,/stop server
-[04Dec2024 18:54:35.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
-[04Dec2024 18:54:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> awwwwwwwwwwwwwww
-[04Dec2024 18:54:53.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> todooooooosh navdeños :c
-[04Dec2024 18:54:58.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yo soy el unico que no
-[04Dec2024 18:55:04.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> siempre he podido
-[04Dec2024 18:55:09.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> cualidad de sklauncher
-[04Dec2024 18:55:18.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pipi :C
-[04Dec2024 18:55:22.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> todos navideños
-[04Dec2024 18:55:49.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> luego vemos eso, primero opti a tu lap para que vuele jeje
-[04Dec2024 18:56:21.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> carga good
-[04Dec2024 18:56:34.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> tema horas nomas
-[04Dec2024 18:56:44.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 18:56:46.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> a las 2
-[04Dec2024 18:56:48.214] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=234, y=-57, z=141}
-[04Dec2024 18:56:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> luego recupero la ote
-[04Dec2024 18:56:55.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> otra
-[04Dec2024 18:56:57.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> todo si
-[04Dec2024 18:57:03.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> si me da el mundo oscar chim
-[04Dec2024 18:57:11.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ya que seria lo mismo
-[04Dec2024 18:57:30.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> solo seria ver si es que la ip no cambia al ser otra cuenta
-[04Dec2024 18:57:55.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pues si va muy fino
-[04Dec2024 18:58:04.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> todos
-[04Dec2024 18:58:12.317] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=-129, y=41, z=-2134}
-[04Dec2024 18:58:12.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=-129, y=40, z=-2134}
-[04Dec2024 18:58:12.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=-129, y=43, z=-2136}
-[04Dec2024 18:58:12.318] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=-129, y=42, z=-2136}
-[04Dec2024 18:58:12.319] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=-129, y=43, z=-2135}
-[04Dec2024 18:58:12.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=-129, y=41, z=-2136}
-[04Dec2024 18:58:12.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=-129, y=42, z=-2135}
-[04Dec2024 18:58:12.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=-129, y=43, z=-2134}
-[04Dec2024 18:58:12.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=-129, y=40, z=-2136}
-[04Dec2024 18:58:12.320] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=-129, y=41, z=-2135}
-[04Dec2024 18:58:12.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=-129, y=42, z=-2134}
-[04Dec2024 18:58:16.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to OscarJapi]
-[04Dec2024 18:58:24.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que guapos se ven navideños
-[04Dec2024 18:58:26.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
-[04Dec2024 18:58:45.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> metan skincustomloader
-[04Dec2024 18:58:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> es mod
-[04Dec2024 18:58:58.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 18:59:01.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> es cliente
-[04Dec2024 18:59:06.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> deberia dejarte ver las skins
-[04Dec2024 18:59:11.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> y agrega como 3d
-[04Dec2024 18:59:27.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pero yo no lo uso, ya que mi launcher me da la posibilidad de ver las skins
-[04Dec2024 18:59:34.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> te lo paso
-[04Dec2024 19:01:29.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> bajale a los graficos. tipo todo en fast
-[04Dec2024 19:01:44.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> en quality
-[04Dec2024 19:02:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> en 0 es mejo
-[04Dec2024 19:02:49.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yo veo bien
-[04Dec2024 19:02:56.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> fto y la paso en el grupo?
-[04Dec2024 19:03:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:03:50.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> foto foto
-[04Dec2024 19:03:52.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
-[04Dec2024 19:03:52.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set poopy8's game mode to Survival Mode]
-[04Dec2024 19:03:52.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set Kl0udyy's game mode to Survival Mode]
-[04Dec2024 19:03:52.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set TheMasterRoshiii's game mode to Survival Mode]
-[04Dec2024 19:03:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 19:04:08.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:04:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:04:20.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Creative Mode]
-[04Dec2024 19:04:21.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 2 [Torch] to 4]
-[04Dec2024 19:04:26.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 4 [Bread] to 4]
-[04Dec2024 19:04:29.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
-[04Dec2024 19:04:40.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> HIERRO
-[04Dec2024 19:04:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set Kl0udyy's game mode to Survival Mode]
-[04Dec2024 19:04:53.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 20 [Torch] to 4]
-[04Dec2024 19:05:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> LUZ Y COMIENDO
-[04Dec2024 19:05:24.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> Chim
-[04Dec2024 19:05:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 0.0 for 4 players]
-[04Dec2024 19:05:39.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Rotting Stalker
-[04Dec2024 19:05:39.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 19:05:50.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 0.0 for 4 players]
-[04Dec2024 19:05:51.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Rotting Stalker
-[04Dec2024 19:05:52.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 19:05:57.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
-[04Dec2024 19:05:57.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 19:05:59.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:06:22.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:06:30.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gamerule commandBlockOutput is now set to: false]
-[04Dec2024 19:06:55.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 30 command(s) from function 'fromthefog:admin/config']
-[04Dec2024 19:06:57.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/start_delay/remove']
-[04Dec2024 19:06:57.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/start_delay/remove']
-[04Dec2024 19:06:58.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/start_delay/remove']
-[04Dec2024 19:06:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/sighting_chance/2_uncommon']
-[04Dec2024 19:07:00.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/sighting_chance/1_common']
-[04Dec2024 19:07:00.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/sighting_chance/1_common']
-[04Dec2024 19:07:00.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/sighting_chance/1_common']
-[04Dec2024 19:07:02.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 23 command(s) from function 'watching:config/pages/2']
-[04Dec2024 19:07:03.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 26 command(s) from function 'watching:config/burning_base/true']
-[04Dec2024 19:07:05.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 23 command(s) from function 'watching:config/pages/2']
-[04Dec2024 19:07:05.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 23 command(s) from function 'watching:config/pages/2']
-[04Dec2024 19:07:06.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 30 command(s) from function 'watching:config/pages/3']
-[04Dec2024 19:07:07.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 33 command(s) from function 'watching:config/crash/true']
-[04Dec2024 19:07:08.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 30 command(s) from function 'fromthefog:admin/config']
-[04Dec2024 19:07:10.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 24 command(s) from function 'watching:config/pages/4']
-[04Dec2024 19:07:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 23 command(s) from function 'watching:config/pages/2']
-[04Dec2024 19:07:13.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 30 command(s) from function 'watching:config/pages/3']
-[04Dec2024 19:07:15.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 33 command(s) from function 'watching:config/crash/false']
-[04Dec2024 19:07:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 24 command(s) from function 'watching:config/pages/4']
-[04Dec2024 19:07:17.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 25 command(s) from function 'watching:config/pages/5']
-[04Dec2024 19:07:18.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 11 command(s) from function 'watching:config/pages/6']
-[04Dec2024 19:07:19.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 24 command(s) from function 'watching:config/pages/4']
-[04Dec2024 19:07:22.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 25 command(s) from function 'watching:config/pages/5']
-[04Dec2024 19:07:23.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 28 command(s) from function 'watching:config/shrine_suprise/true']
-[04Dec2024 19:07:23.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 28 command(s) from function 'watching:config/advancements/true']
-[04Dec2024 19:07:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 25 command(s) from function 'watching:config/pages/5']
-[04Dec2024 19:07:25.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 11 command(s) from function 'watching:config/pages/6']
-[04Dec2024 19:07:26.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 64 command(s) from function 'watching:config/autoconfig/enable']
-[04Dec2024 19:07:30.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 25 command(s) from function 'watching:config/pages/5']
-[04Dec2024 19:07:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 25 command(s) from function 'watching:config/pages/5']
-[04Dec2024 19:07:31.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 25 command(s) from function 'watching:config/pages/5']
-[04Dec2024 19:07:33.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ya se tumbo
-[04Dec2024 19:07:35.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Executed 30 command(s) from function 'fromthefog:admin/config']
-[04Dec2024 19:07:38.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 30 command(s) from function 'watching:config/pages/3']
-[04Dec2024 19:07:39.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Executed 30 command(s) from function 'watching:config/pages/3']
-[04Dec2024 19:07:46.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> alv
-[04Dec2024 19:07:49.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> se hizo malo
-[04Dec2024 19:08:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Doppelganger Creeper
-[04Dec2024 19:08:14.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Spider Skull
-[04Dec2024 19:08:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Doppelganger Creeper
-[04Dec2024 19:08:27.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> creo que van a ocupar un kit de inicio
-[04Dec2024 19:08:36.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Spider Skull
-[04Dec2024 19:08:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Strength to 4 targets]
-[04Dec2024 19:08:42.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by TheMasterRoshiii
-[04Dec2024 19:08:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Kl0udyy
-[04Dec2024 19:08:47.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed every effect from TheMasterRoshiii]
-[04Dec2024 19:08:50.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii was killed
-[04Dec2024 19:08:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed TheMasterRoshiii]
-[04Dec2024 19:08:58.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> nOooooooooooooooo
-[04Dec2024 19:09:01.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Kl0udyy
-[04Dec2024 19:09:02.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Spider Skull
-[04Dec2024 19:09:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> poopie eso no
-[04Dec2024 19:09:12.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que mrd es eso
-[04Dec2024 19:09:23.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
-[04Dec2024 19:09:24.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
-[04Dec2024 19:09:25.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> esos
-[04Dec2024 19:09:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 19:09:37.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set Kl0udyy's game mode to Creative Mode]
-[04Dec2024 19:09:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set the time to 1000]
-[04Dec2024 19:10:08.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gamerule sendCommandFeedback is now set to: false]
-[04Dec2024 19:10:11.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Set own game mode to Creative Mode]
-[04Dec2024 19:10:16.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> Xd
-[04Dec2024 19:10:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> qu epro
-[04Dec2024 19:10:28.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Monster Hunter]
-[04Dec2024 19:10:44.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Summoned new Alligator Snapping Turtle]
-[04Dec2024 19:10:46.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Alligator In Name Only]
-[04Dec2024 19:10:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Alligator In Name Only]
-[04Dec2024 19:10:59.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Summoned new Toucan]
-[04Dec2024 19:11:04.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was shot by poopy8
-[04Dec2024 19:11:10.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> porque agregan eso si tengo tripofobia
-[04Dec2024 19:11:27.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que puto asco
-[04Dec2024 19:11:40.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
-[04Dec2024 19:11:56.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Hunger to OscarJapi]
-[04Dec2024 19:12:06.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que asco
-[04Dec2024 19:12:12.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Doppelganger Ore
-[04Dec2024 19:12:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
-[04Dec2024 19:12:19.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> tengo un vergi de tripofobia
-[04Dec2024 19:12:22.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:12:25.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:12:49.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Diamonds!]
-[04Dec2024 19:12:59.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Diamonds!]
-[04Dec2024 19:13:06.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> si va haber eso, me voy a morir
-[04Dec2024 19:13:19.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no puedo, es mucha tripofobia para mi body
-[04Dec2024 19:14:14.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> usen teclado 200%
-[04Dec2024 19:14:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> weeeeeeeeeeey
-[04Dec2024 19:14:31.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> un creeper con mochila
-[04Dec2024 19:14:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> un creeper con mochila
-[04Dec2024 19:14:32.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> un creeper con mochila
-[04Dec2024 19:14:33.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> un creeper con mochila
-[04Dec2024 19:14:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:14:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Sweet Dreams]
-[04Dec2024 19:15:02.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gamerule playersSleepingPercentage is now set to: 20]
-[04Dec2024 19:15:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
-[04Dec2024 19:15:11.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set the time to 13000]
-[04Dec2024 19:15:14.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Sweet Dreams]
-[04Dec2024 19:15:22.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gamerule playersSleepingPercentage is now set to: 200]
-[04Dec2024 19:15:46.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> un brasier dice
-[04Dec2024 19:16:17.252] [Server thread/INFO] [simpleradio/]: Added receiver bc5a894c-1b12-380a-9830-e8d07c103dcb to frequency 000.00
-[04Dec2024 19:16:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> si es arclight oscar?
-[04Dec2024 19:16:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ha goood
-[04Dec2024 19:16:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:16:53.948] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 705.68
-[04Dec2024 19:16:54.099] [Server thread/INFO] [simpleradio/]: Failed to add receiver bc5a894c-1b12-380a-9830-e8d07c103dcb to frequency 000.00 as they already exist
-[04Dec2024 19:16:57.798] [Server thread/INFO] [simpleradio/]: Added receiver 1567f6a1-8406-3181-bf29-77992b07c623 to frequency 705.68
-[04Dec2024 19:16:59.599] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 812.06
-[04Dec2024 19:17:01.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que good
-[04Dec2024 19:17:10.847] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 812.06 as they already exist
-[04Dec2024 19:17:17.046] [Server thread/INFO] [simpleradio/]: Added receiver cabfbe3d-e5d7-421d-9e78-e00247ce3ccc to frequency 000.00
-[04Dec2024 19:17:46.746] [Server thread/INFO] [simpleradio/]: Added receiver 7ff795b4-0544-40d6-bd24-3feffe4efdca to frequency 000.00
-[04Dec2024 19:18:00.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> cual es el emote de abrazo
-[04Dec2024 19:18:19.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no me sale pipi
-[04Dec2024 19:18:53.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> el baile del zombie
-[04Dec2024 19:18:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no me sale xd
-[04Dec2024 19:19:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Pseudo Archaeologist]
-[04Dec2024 19:19:07.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> foto grupal
-[04Dec2024 19:19:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yo la hago
-[04Dec2024 19:19:17.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:19:22.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> vavva
-[04Dec2024 19:19:44.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> listo
-[04Dec2024 19:19:51.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> voy
-[04Dec2024 19:20:52.798] [Server thread/INFO] [simpleradio/]: Failed to add receiver 1567f6a1-8406-3181-bf29-77992b07c623 to frequency 705.68 as they already exist
-[04Dec2024 19:21:06.504] [Server thread/INFO] [simpleradio/]: Failed to add receiver 1567f6a1-8406-3181-bf29-77992b07c623 to frequency 705.68 as they already exist
-[04Dec2024 19:21:10.048] [Server thread/INFO] [simpleradio/]: Failed to add receiver 1567f6a1-8406-3181-bf29-77992b07c623 to frequency 705.68 as they already exist
-[04Dec2024 19:21:12.504] [Server thread/INFO] [simpleradio/]: Failed to add receiver 1567f6a1-8406-3181-bf29-77992b07c623 to frequency 705.68 as they already exist
-[04Dec2024 19:21:16.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Taste the Rainbow]
-[04Dec2024 19:21:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:21:37.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Taste the Rainbow]
-[04Dec2024 19:21:43.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ALV
-[04Dec2024 19:21:48.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> TIENE LA ESTRELA DEL MARIO
-[04Dec2024 19:21:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was killed
-[04Dec2024 19:21:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Killed OscarJapi]
-[04Dec2024 19:21:54.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> SI ES
-[04Dec2024 19:22:12.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> wtf
-[04Dec2024 19:22:35.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Amateur Archaeologist]
-[04Dec2024 19:22:43.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que mmda
-[04Dec2024 19:22:49.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:22:51.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:22:58.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Amateur Archaeologist]
-[04Dec2024 19:23:01.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chingas a
-[04Dec2024 19:23:06.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:23:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:23:16.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> awwwwww
-[04Dec2024 19:23:17.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
-[04Dec2024 19:23:27.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Froststalker
-[04Dec2024 19:23:43.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Froststalker
-[04Dec2024 19:23:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> me gusta igual
-[04Dec2024 19:23:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
-[04Dec2024 19:24:00.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [You're too Slow!]
-[04Dec2024 19:24:05.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> es que sus skins si estan bien cutes ;c la mia no
-[04Dec2024 19:24:37.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> kloudy hacker
-[04Dec2024 19:24:47.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> el oscar modo bolita
-[04Dec2024 19:24:58.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:25:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:25:07.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Amateur Archaeologist]
-[04Dec2024 19:25:13.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> miraaaaaaa poopy
-[04Dec2024 19:25:21.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set poopy8's game mode to Survival Mode]
-[04Dec2024 19:25:25.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> awebo awebo nutria
-[04Dec2024 19:25:32.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set poopy8's game mode to Creative Mode]
-[04Dec2024 19:25:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Gave 1 [Diamond Sword] to OscarJapi]
-[04Dec2024 19:25:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Chest Slayer]
-[04Dec2024 19:25:43.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Chest Slayer]
-[04Dec2024 19:25:45.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Amateur Archaeologist]
-[04Dec2024 19:25:50.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> kitty papos
-[04Dec2024 19:25:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Is Someone Following Me?]
-[04Dec2024 19:26:25.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Source of Evil]
-[04Dec2024 19:26:27.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Stay dead]
-[04Dec2024 19:26:36.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:26:44.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:26:47.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was killed
-[04Dec2024 19:26:47.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii was killed
-[04Dec2024 19:26:47.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was killed
-[04Dec2024 19:26:47.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was killed
-[04Dec2024 19:26:47.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed 333 entities]
-[04Dec2024 19:26:56.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> mejor
-[04Dec2024 19:26:59.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set the time to 1000]
-[04Dec2024 19:27:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> mucho ruido
-[04Dec2024 19:27:13.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> si es XDDDDDDDDDDd
-[04Dec2024 19:27:48.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pinche hacker
-[04Dec2024 19:27:56.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
-[04Dec2024 19:28:02.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Kicked OscarJapi: Por manipulacion del space]
-[04Dec2024 19:28:02.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi lost connection: Por manipulacion del space
-[04Dec2024 19:28:02.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi left the game
-[04Dec2024 19:28:02.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client OscarJapi
-[04Dec2024 19:28:22.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> nono
-[04Dec2024 19:28:30.149] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2e82fb10[id=<null>,name=OscarJapi,properties={},legacy=false] (/127.182.58.186:34709) lost connection: Disconnected
-[04Dec2024 19:28:30.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has completed the challenge [The Power of the Sun]
-[04Dec2024 19:28:36.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OscarJapi[/127.182.58.186:60795] logged in with entity id 18039 at (-7.897245470119673, 64.0, -4.090307155509033)
-[04Dec2024 19:28:36.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi joined the game
-[04Dec2024 19:28:36.721] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of OscarJapi (18)
-[04Dec2024 19:28:36.722] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to OscarJapi
-[04Dec2024 19:28:37.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:28:44.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:28:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
-[04Dec2024 19:28:54.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed 5 item(s) from player TheMasterRoshiii]
-[04Dec2024 19:29:05.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no mames
-[04Dec2024 19:29:08.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> es el fireball
-[04Dec2024 19:29:26.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
-[04Dec2024 19:29:35.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by TheMasterRoshiii
-[04Dec2024 19:29:40.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> XD
-[04Dec2024 19:29:44.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Reality Can Be Whatever I Want]
-[04Dec2024 19:30:07.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Rainbow Road]
-[04Dec2024 19:30:09.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set TheMasterRoshiii's game mode to Survival Mode]
-[04Dec2024 19:30:10.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Sugar... In Wator...]
-[04Dec2024 19:30:18.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by TheMasterRoshiii
-[04Dec2024 19:30:27.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
-[04Dec2024 19:30:37.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [The Quest for the Best]
-[04Dec2024 19:30:39.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [The Soul-ly Ghost]
-[04Dec2024 19:30:59.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Stone Age]
-[04Dec2024 19:31:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no me afecta
-[04Dec2024 19:31:29.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
-[04Dec2024 19:31:34.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Summoned new Warden]
-[04Dec2024 19:31:37.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [There Is No Way Back]
-[04Dec2024 19:31:37.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Warden
-[04Dec2024 19:31:38.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [There Is No Way Back]
-[04Dec2024 19:31:39.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii was slain by Warden
-[04Dec2024 19:31:42.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Warden
-[04Dec2024 19:31:47.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pega arto
-[04Dec2024 19:31:49.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 19:32:01.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [There Is No Way Back]
-[04Dec2024 19:32:05.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:32:13.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:32:24.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Removed every effect from Kl0udyy]
-[04Dec2024 19:32:33.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [He's Watching...]
-[04Dec2024 19:32:39.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> por pegarle
-[04Dec2024 19:33:08.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Summoned new Vapor]
-[04Dec2024 19:33:15.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que ptas
-[04Dec2024 19:33:20.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> casi me da un infarto
-[04Dec2024 19:33:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set TheMasterRoshiii's game mode to Survival Mode]
-[04Dec2024 19:34:01.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was killed whilst fighting TheMasterRoshiii
-[04Dec2024 19:34:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed OscarJapi]
-[04Dec2024 19:34:03.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Is Someone Following Me?]
-[04Dec2024 19:34:05.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii was killed whilst fighting OscarJapi
-[04Dec2024 19:34:05.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed TheMasterRoshiii]
-[04Dec2024 19:34:17.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> mejor un tp a 100000
-[04Dec2024 19:34:33.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Speed to 4 targets]
-[04Dec2024 19:34:50.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Jump Boost to 4 targets]
-[04Dec2024 19:34:54.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii was kicked for floating too long!
-[04Dec2024 19:34:54.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Flying is not enabled on this server
-[04Dec2024 19:34:54.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
-[04Dec2024 19:34:54.580] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
-[04Dec2024 19:34:54.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi was kicked for floating too long!
-[04Dec2024 19:34:54.923] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi lost connection: Flying is not enabled on this server
-[04Dec2024 19:34:54.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi left the game
-[04Dec2024 19:34:54.924] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client OscarJapi
-[04Dec2024 19:34:56.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kl0udyy was kicked for floating too long!
-[04Dec2024 19:34:56.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kl0udyy lost connection: Flying is not enabled on this server
-[04Dec2024 19:34:56.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy left the game
-[04Dec2024 19:34:56.531] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kl0udyy
-[04Dec2024 19:34:56.599] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[04Dec2024 19:35:00.413] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OscarJapi[/127.182.58.186:50183] logged in with entity id 20993 at (297.56457352176056, 80.74008643899938, 29.169023723711646)
-[04Dec2024 19:35:00.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi joined the game
-[04Dec2024 19:35:00.598] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of OscarJapi (18)
-[04Dec2024 19:35:00.598] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to OscarJapi
-[04Dec2024 19:35:02.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi fell from a high place
-[04Dec2024 19:35:05.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kl0udyy[/127.213.27.136:34235] logged in with entity id 21331 at (-70.03670044646897, 83.04988387834057, 364.3832169246424)
-[04Dec2024 19:35:05.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy joined the game
-[04Dec2024 19:35:05.439] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kl0udyy (18)
-[04Dec2024 19:35:05.440] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
-[04Dec2024 19:35:20.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Applied effect Speed to OscarJapi]
-[04Dec2024 19:35:31.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kl0udyy was kicked for floating too long!
-[04Dec2024 19:35:31.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kl0udyy lost connection: Flying is not enabled on this server
-[04Dec2024 19:35:31.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy left the game
-[04Dec2024 19:35:31.664] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kl0udyy
-[04Dec2024 19:35:37.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kl0udyy[/127.213.27.136:51227] logged in with entity id 22851 at (-65.35711963955679, 83.04988387834057, 443.14429450290606)
-[04Dec2024 19:35:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy joined the game
-[04Dec2024 19:35:37.800] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kl0udyy (18)
-[04Dec2024 19:35:37.801] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
-[04Dec2024 19:35:38.427] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28962424[id=<null>,name=TheMasterRoshiii,properties={},legacy=false] (/127.3.80.124:54899) lost connection: Disconnected
-[04Dec2024 19:35:40.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy fell from a high place
-[04Dec2024 19:35:45.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:60181] logged in with entity id 23483 at (8.524066529283077, 111.60411221985814, 192.15561917288193)
-[04Dec2024 19:35:45.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
-[04Dec2024 19:35:45.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
-[04Dec2024 19:35:45.671] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
-[04Dec2024 19:35:53.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii was kicked for floating too long!
-[04Dec2024 19:35:53.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Flying is not enabled on this server
-[04Dec2024 19:35:53.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
-[04Dec2024 19:35:53.231] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
-[04Dec2024 19:36:01.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:36411] logged in with entity id 24308 at (8.524066529283077, 69.7485253887366, 192.15561917288193)
-[04Dec2024 19:36:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
-[04Dec2024 19:36:01.543] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
-[04Dec2024 19:36:01.544] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
-[04Dec2024 19:36:13.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed every effect from TheMasterRoshiii]
-[04Dec2024 19:36:13.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii was kicked for floating too long!
-[04Dec2024 19:36:14.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Flying is not enabled on this server
-[04Dec2024 19:36:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
-[04Dec2024 19:36:14.023] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
-[04Dec2024 19:36:15.967] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[04Dec2024 19:36:15.968] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[04Dec2024 19:36:15.968] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[04Dec2024 19:36:15.969] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[04Dec2024 19:36:16.456] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[04Dec2024 19:36:16.456] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[04Dec2024 19:36:16.457] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[04Dec2024 19:36:16.457] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[04Dec2024 19:36:17.351] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[04Dec2024 19:36:17.351] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[04Dec2024 19:36:17.352] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[04Dec2024 19:36:17.352] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[04Dec2024 19:36:17.352] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[04Dec2024 19:36:17.717] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[04Dec2024 19:36:17.717] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[04Dec2024 19:36:17.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[04Dec2024 19:36:17.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[04Dec2024 19:36:18.360] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[04Dec2024 19:36:18.360] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[04Dec2024 19:36:18.360] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[04Dec2024 19:36:18.361] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[04Dec2024 19:36:19.573] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[04Dec2024 19:36:19.574] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[04Dec2024 19:36:19.575] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[04Dec2024 19:36:19.575] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[04Dec2024 19:36:19.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:38435] logged in with entity id 25457 at (26.035808751000538, 101.35411221985812, 259.37736707778504)
-[04Dec2024 19:36:19.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
-[04Dec2024 19:36:20.052] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
-[04Dec2024 19:36:20.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
-[04Dec2024 19:36:20.546] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[04Dec2024 19:36:20.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[04Dec2024 19:36:20.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[04Dec2024 19:36:20.547] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[04Dec2024 19:36:21.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[04Dec2024 19:36:21.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[04Dec2024 19:36:21.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[04Dec2024 19:36:21.382] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[04Dec2024 19:36:22.384] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[04Dec2024 19:36:22.384] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[04Dec2024 19:36:22.385] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[04Dec2024 19:36:25.218] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[04Dec2024 19:36:25.219] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[04Dec2024 19:36:25.219] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[04Dec2024 19:36:25.220] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[04Dec2024 19:36:25.264] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[04Dec2024 19:36:25.265] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[04Dec2024 19:36:25.265] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[04Dec2024 19:36:25.266] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[04Dec2024 19:36:25.413] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[04Dec2024 19:36:25.414] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[04Dec2024 19:36:25.414] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[04Dec2024 19:36:25.415] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[04Dec2024 19:36:25.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[04Dec2024 19:36:25.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[04Dec2024 19:36:25.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[04Dec2024 19:36:25.422] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[04Dec2024 19:36:25.429] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[04Dec2024 19:36:25.429] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[04Dec2024 19:36:25.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[04Dec2024 19:36:25.430] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[04Dec2024 19:36:26.288] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[04Dec2024 19:36:26.288] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[04Dec2024 19:36:26.289] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[04Dec2024 19:36:26.289] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[04Dec2024 19:36:29.692] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
-[04Dec2024 19:36:29.693] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
-[04Dec2024 19:36:29.694] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
-[04Dec2024 19:36:29.694] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
-[04Dec2024 19:36:39.136] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
-[04Dec2024 19:36:39.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[04Dec2024 19:36:39.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[04Dec2024 19:36:39.138] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[04Dec2024 19:36:42.091] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[04Dec2024 19:36:42.092] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[04Dec2024 19:36:42.092] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[04Dec2024 19:36:42.093] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[04Dec2024 19:36:46.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to 10000.500000, 66.770000, 10000.500000]
-[04Dec2024 19:36:46.174] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4081ms or 81 ticks behind
-[04Dec2024 19:36:46.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 moved too quickly! -2.499400574410174,13.056976193061828,-0.5646459768921659
-[04Dec2024 19:36:46.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii moved too quickly! 0.0,-10.063345053847009,0.0
-[04Dec2024 19:36:46.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to 10000.500000, 10000.000000, 10000.500000]
-[04Dec2024 19:36:50.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi was kicked for floating too long!
-[04Dec2024 19:36:50.719] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi lost connection: Flying is not enabled on this server
-[04Dec2024 19:36:50.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi left the game
-[04Dec2024 19:36:50.720] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client OscarJapi
-[04Dec2024 19:36:53.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> XD
-[04Dec2024 19:36:55.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> me va bien
-[04Dec2024 19:36:55.783] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OscarJapi[/127.182.58.186:39977] logged in with entity id 27194 at (10000.5, 9843.464762219593, 10000.5)
-[04Dec2024 19:36:55.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi joined the game
-[04Dec2024 19:36:55.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of OscarJapi (18)
-[04Dec2024 19:36:55.991] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to OscarJapi
-[04Dec2024 19:36:59.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
-[04Dec2024 19:37:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> aqui si
-[04Dec2024 19:37:12.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to 10000.500000, 60.000000, 10000.500000]
-[04Dec2024 19:37:14.783] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:village_plains took 41 ms
-[04Dec2024 19:37:17.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:37:31.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed every effect from poopy8]
-[04Dec2024 19:37:32.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Removed every effect from Kl0udyy]
-[04Dec2024 19:37:38.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Speed to poopy8]
-[04Dec2024 19:37:51.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Barrel Booty]
-[04Dec2024 19:37:53.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Crops of the Wild]
-[04Dec2024 19:38:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> focaaaaaaaaas
-[04Dec2024 19:38:24.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has completed the challenge [Free Willy]
-[04Dec2024 19:38:38.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> para mi carga bien
-[04Dec2024 19:38:42.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> este son mis amiwas
-[04Dec2024 19:38:58.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pa mi que si peta
-[04Dec2024 19:39:15.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Speed to 4 targets]
-[04Dec2024 19:39:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yo digo que si
-[04Dec2024 19:39:26.162] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=10045, y=28, z=10966}
-[04Dec2024 19:39:26.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=10045, y=27, z=10966}
-[04Dec2024 19:39:26.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=10045, y=28, z=10967}
-[04Dec2024 19:39:26.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=10045, y=26, z=10966}
-[04Dec2024 19:39:26.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=10045, y=27, z=10967}
-[04Dec2024 19:39:26.163] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=10045, y=28, z=10968}
-[04Dec2024 19:39:26.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=10045, y=25, z=10966}
-[04Dec2024 19:39:26.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=10045, y=26, z=10967}
-[04Dec2024 19:39:26.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=10045, y=27, z=10968}
-[04Dec2024 19:39:26.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=10045, y=26, z=10968}
-[04Dec2024 19:39:26.164] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=east,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=10045, y=25, z=10968}
-[04Dec2024 19:39:31.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> el fort:
-[04Dec2024 19:39:34.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pensamos
-[04Dec2024 19:40:08.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Set own game mode to Spectator Mode]
-[04Dec2024 19:40:12.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii moved wrongly!
-[04Dec2024 19:40:24.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> carga como en bedrock XD
-[04Dec2024 19:40:36.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Set own game mode to Creative Mode]
-[04Dec2024 19:40:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> cony?
-[04Dec2024 19:40:56.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> jp?
-[04Dec2024 19:41:09.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement ['X' Marks the Spot]
-[04Dec2024 19:41:21.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement ['X' Marks the Spot]
-[04Dec2024 19:41:23.092] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
-[04Dec2024 19:41:23.093] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
-[04Dec2024 19:41:24.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que ptas
-[04Dec2024 19:41:25.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 19:41:31.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Disconnected
-[04Dec2024 19:41:31.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
-[04Dec2024 19:41:31.267] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
-[04Dec2024 19:41:58.682] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-336, y=-25, z=1939}
-[04Dec2024 19:41:58.682] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-336, y=-25, z=1945}
-[04Dec2024 19:41:58.684] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-327, y=-24, z=1939}
-[04Dec2024 19:42:00.115] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-341, y=-25, z=1939}
-[04Dec2024 19:42:00.116] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-341, y=-25, z=1945}
-[04Dec2024 19:42:02.028] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:58611] logged in with entity id 44260 at (9379.882327377501, 69.0, 9014.699999988079)
-[04Dec2024 19:42:02.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
-[04Dec2024 19:42:02.694] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
-[04Dec2024 19:42:02.695] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
-[04Dec2024 19:42:06.894] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-359, y=-1, z=1914}
-[04Dec2024 19:42:06.895] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-359, y=-1, z=1910}
-[04Dec2024 19:42:07.560] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-4}
-[04Dec2024 19:42:22.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed every effect from TheMasterRoshiii]
-[04Dec2024 19:42:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement ['X' Marks the Spot]
-[04Dec2024 19:42:47.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Removed every effect from Kl0udyy]
-[04Dec2024 19:42:54.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Speed to 4 targets]
-[04Dec2024 19:43:26.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=8957, y=28, z=8726}
-[04Dec2024 19:43:26.784] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=8957, y=27, z=8726}
-[04Dec2024 19:43:26.784] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=8957, y=28, z=8727}
-[04Dec2024 19:43:26.795] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=8957, y=26, z=8726}
-[04Dec2024 19:43:26.796] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=8957, y=27, z=8727}
-[04Dec2024 19:43:26.796] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=8957, y=28, z=8728}
-[04Dec2024 19:43:26.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=8957, y=25, z=8726}
-[04Dec2024 19:43:26.797] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=8957, y=26, z=8727}
-[04Dec2024 19:43:26.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=8957, y=27, z=8728}
-[04Dec2024 19:43:26.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=8957, y=26, z=8728}
-[04Dec2024 19:43:26.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=8957, y=25, z=8728}
-[04Dec2024 19:43:32.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to Kl0udyy]
-[04Dec2024 19:43:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to TheMasterRoshiii]
-[04Dec2024 19:43:39.275] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_4,waterlogged=false] but failed at location BlockPos{x=10063, y=43, z=11784}
-[04Dec2024 19:43:39.276] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_3,waterlogged=false] but failed at location BlockPos{x=10063, y=42, z=11784}
-[04Dec2024 19:43:39.276] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=10063, y=43, z=11785}
-[04Dec2024 19:43:39.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_2,waterlogged=false] but failed at location BlockPos{x=10063, y=41, z=11784}
-[04Dec2024 19:43:39.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_3,waterlogged=false] but failed at location BlockPos{x=10063, y=42, z=11785}
-[04Dec2024 19:43:39.277] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=10063, y=40, z=11784}
-[04Dec2024 19:43:39.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=10063, y=41, z=11785}
-[04Dec2024 19:43:39.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=10063, y=42, z=11786}
-[04Dec2024 19:43:39.278] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=10063, y=43, z=11786}
-[04Dec2024 19:43:39.279] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_2,waterlogged=false] but failed at location BlockPos{x=10063, y=41, z=11786}
-[04Dec2024 19:43:39.279] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=west,open=false,part=right_1,waterlogged=false] but failed at location BlockPos{x=10063, y=40, z=11786}
-[04Dec2024 19:43:49.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Set own game mode to Spectator Mode]
-[04Dec2024 19:44:09.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
-[04Dec2024 19:44:17.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> carga relativamente rapido
-[04Dec2024 19:44:17.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Set own game mode to Creative Mode]
-[04Dec2024 19:44:19.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported poopy8 to OscarJapi]
-[04Dec2024 19:44:22.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported 4 entities to TheMasterRoshiii]
-[04Dec2024 19:44:23.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported Kl0udyy to OscarJapi]
-[04Dec2024 19:44:26.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Sweet Dreams]
-[04Dec2024 19:44:30.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> mimi
-[04Dec2024 19:44:37.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed every effect from 4 targets]
-[04Dec2024 19:44:52.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ojoooooooooo
-[04Dec2024 19:44:57.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> vengan
-[04Dec2024 19:45:33.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
-[04Dec2024 19:45:35.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:45:54.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> perdon mis pantuflas
-[04Dec2024 19:46:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set poopy8's game mode to Survival Mode]
-[04Dec2024 19:46:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Survival Mode]
-[04Dec2024 19:46:09.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set OscarJapi's game mode to Survival Mode]
-[04Dec2024 19:46:09.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set TheMasterRoshiii's game mode to Survival Mode]
-[04Dec2024 19:46:09.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Is Someone Following Me?]
-[04Dec2024 19:46:12.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to 4 targets]
-[04Dec2024 19:46:13.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 19:46:15.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set poopy8's game mode to Creative Mode]
-[04Dec2024 19:46:15.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set Kl0udyy's game mode to Creative Mode]
-[04Dec2024 19:46:15.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set OscarJapi's game mode to Creative Mode]
-[04Dec2024 19:46:28.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Gave 1 [Diamond Sword] to 4]
-[04Dec2024 19:46:34.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
-[04Dec2024 19:46:37.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has completed the challenge [Cover Me in Debris]
-[04Dec2024 19:46:44.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> apcosi oscar
-[04Dec2024 19:46:44.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
-[04Dec2024 19:46:48.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has completed the challenge [Cover Me in Debris]
-[04Dec2024 19:46:50.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has completed the challenge [Cover Me in Debris]
-[04Dec2024 19:46:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set poopy8's game mode to Survival Mode]
-[04Dec2024 19:46:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Survival Mode]
-[04Dec2024 19:46:57.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Monster Hunter]
-[04Dec2024 19:47:12.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed every effect from 4 targets]
-[04Dec2024 19:47:27.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Diamond Pickaxe] to 4]
-[04Dec2024 19:47:31.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Stone Age]
-[04Dec2024 19:47:33.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Netherite Pickaxe] to poopy8]
-[04Dec2024 19:47:41.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Disconnected
-[04Dec2024 19:47:41.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
-[04Dec2024 19:47:42.000] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
-[04Dec2024 19:47:48.855] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:42295] logged in with entity id 49915 at (10040.662424013713, 40.5, 11792.338257375593)
-[04Dec2024 19:47:48.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
-[04Dec2024 19:47:49.051] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
-[04Dec2024 19:47:49.052] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
-[04Dec2024 19:48:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Spectator Mode]
-[04Dec2024 19:48:43.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Applied effect Night Vision to Kl0udyy]
-[04Dec2024 19:49:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Stone Age]
-[04Dec2024 19:49:38.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
-[04Dec2024 19:49:43.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Gave 64 [Golden Apple] to 4]
-[04Dec2024 19:49:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Crops of the Wild]
-[04Dec2024 19:50:04.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 19:50:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
-[04Dec2024 19:50:38.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ya viste
-[04Dec2024 19:50:50.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> y cada que recibes daño baja la sanidad
-[04Dec2024 19:51:15.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Gave 1 [Blue Bed] to 4]
-[04Dec2024 19:51:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 19:51:29.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set OscarJapi's sanity to 0.0]
-[04Dec2024 19:51:33.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set the time to 13000]
-[04Dec2024 19:51:41.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Apocalyptic Wasteland]
-[04Dec2024 19:51:50.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gamerule playersSleepingPercentage is now set to: 1]
-[04Dec2024 19:52:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> tiene mucha vida
-[04Dec2024 19:52:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> y en ese mundo no tienes como la misma fuerza
-[04Dec2024 19:52:36.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was obliterated by a sonically-charged shriek
-[04Dec2024 19:52:52.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> si
-[04Dec2024 19:53:02.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Peaceful]
-[04Dec2024 19:53:15.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
-[04Dec2024 19:53:20.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set the time to 13000]
-[04Dec2024 19:53:23.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Sweet Dreams]
-[04Dec2024 19:53:36.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> y ese efecto de sonido tan realista
-[04Dec2024 19:53:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pov; el sapo en la puerta (ice)
-[04Dec2024 19:53:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Summoned new Firework Rocket]
-[04Dec2024 19:54:09.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> como se llama tu gatito poopie?
-[04Dec2024 19:54:19.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> señor michi
-[04Dec2024 19:54:24.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ratoncin?
-[04Dec2024 19:54:29.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> lo sabia
-[04Dec2024 19:54:35.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que raza es?
-[04Dec2024 19:54:51.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> pastor aleman XD
-[04Dec2024 19:54:59.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 19:55:11.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Is Someone Following Me?]
-[04Dec2024 19:55:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> wtf
-[04Dec2024 19:56:34.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Stone Age]
-[04Dec2024 19:56:59.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Applied enchantment Efficiency V to OscarJapi's item]
-[04Dec2024 19:57:05.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ojo
-[04Dec2024 19:57:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> dame una pista
-[04Dec2024 19:57:20.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Haste to 4 targets]
-[04Dec2024 19:57:20.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10083, y=41, z=11769} BlockPos{x=10083, y=40, z=11769}
-[04Dec2024 19:57:24.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Haste to 4 targets]
-[04Dec2024 19:57:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [I'm on Singleplayer Right?]
-[04Dec2024 19:57:36.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied enchantment Efficiency V to 4 entities]
-[04Dec2024 19:58:00.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Applied effect Haste to poopy8]
-[04Dec2024 19:58:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim chim
-[04Dec2024 19:58:23.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to 4 targets]
-[04Dec2024 19:58:25.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:25.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=45, z=11762} BlockPos{x=10079, y=46, z=11760}
-[04Dec2024 19:58:28.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10085, y=38, z=11765} BlockPos{x=10085, y=37, z=11765}
-[04Dec2024 19:58:33.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10079, y=42, z=11752} BlockPos{x=10079, y=40, z=11751}
-[04Dec2024 19:58:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> es arriba
-[04Dec2024 19:58:41.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10090, y=48, z=11760} BlockPos{x=10090, y=46, z=11761}
-[04Dec2024 19:58:42.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=32, z=11748} BlockPos{x=10081, y=28, z=11749}
-[04Dec2024 19:58:42.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=32, z=11748} BlockPos{x=10080, y=29, z=11749}
-[04Dec2024 19:58:42.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=10080, y=32, z=11748} BlockPos{x=10081, y=31, z=11749}
-[04Dec2024 19:58:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to poopy8]
-[04Dec2024 19:58:59.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no pero arriba salian muchos caminos
-[04Dec2024 19:59:02.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Stay dead]
-[04Dec2024 19:59:35.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii was slain by Doppelganger Creeper
-[04Dec2024 20:00:02.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Bow] to poopy8]
-[04Dec2024 20:01:32.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 100 [Garland] to poopy8]
-[04Dec2024 20:02:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Added 100.0 sanity to poopy8]
-[04Dec2024 20:02:24.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to poopy8]
-[04Dec2024 20:02:51.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed 218 entities]
-[04Dec2024 20:03:12.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to TheMasterRoshiii]
-[04Dec2024 20:03:38.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> y a donde fueron todos
-[04Dec2024 20:03:46.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
-[04Dec2024 20:05:16.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [He's Watching...]
-[04Dec2024 20:05:17.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Diamond Backpack] to poopy8]
-[04Dec2024 20:06:15.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Boots] to TheMasterRoshiii]
-[04Dec2024 20:06:32.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Boots] to TheMasterRoshiii]
-[04Dec2024 20:06:56.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Rotting Stalker
-[04Dec2024 20:07:00.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Boots] to TheMasterRoshiii]
-[04Dec2024 20:07:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Chestplate] to TheMasterRoshiii]
-[04Dec2024 20:07:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Leggings] to TheMasterRoshiii]
-[04Dec2024 20:07:47.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gave 1 [Steampunk Helmet] to TheMasterRoshiii]
-[04Dec2024 20:07:53.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Power V to poopy8's item]
-[04Dec2024 20:08:16.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
-[04Dec2024 20:08:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Flame to poopy8's item]
-[04Dec2024 20:08:33.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Applied enchantment Infinity to poopy8's item]
-[04Dec2024 20:08:59.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> oa
-[04Dec2024 20:09:05.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> awebo awebo
-[04Dec2024 20:09:11.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to poopy8]
-[04Dec2024 20:09:21.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ño
-[04Dec2024 20:09:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> un empujoncito
-[04Dec2024 20:09:39.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Summoned new Banana Slug]
-[04Dec2024 20:09:44.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> que mmda
-[04Dec2024 20:09:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> si
-[04Dec2024 20:09:53.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> por afk aparecieron 2 bichos
-[04Dec2024 20:09:59.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> smilers
-[04Dec2024 20:10:06.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> haya
-[04Dec2024 20:10:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Convergent Evolution...]
-[04Dec2024 20:10:21.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Added 100.0 sanity to poopy8]
-[04Dec2024 20:10:26.229] [Server thread/INFO] [croissantnova.sanitydim.SanityMod/]: Applying dimension config example.toml
-[04Dec2024 20:10:26.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Reloaded dimension configs successfully]
-[04Dec2024 20:10:31.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:10:50.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to 4 targets]
-[04Dec2024 20:10:59.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> para ver mejor
-[04Dec2024 20:11:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Applied effect Night Vision to OscarJapi]
-[04Dec2024 20:11:07.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chom
-[04Dec2024 20:11:30.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Spectator Mode]
-[04Dec2024 20:11:59.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
-[04Dec2024 20:12:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> me jui a un lugar majico
-[04Dec2024 20:12:21.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Stay dead]
-[04Dec2024 20:12:26.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ke rico el ay cabron
-[04Dec2024 20:13:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:17.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:18.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:19.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:19.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:19.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:19.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:13:30.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Take Aim]
-[04Dec2024 20:13:46.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Tunnel Treasures]
-[04Dec2024 20:13:47.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Gave 20 [Anvil] to OscarJapi]
-[04Dec2024 20:13:51.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Acquire Hardware]
-[04Dec2024 20:13:54.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> wao
-[04Dec2024 20:14:17.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> me encanta esta armadura
-[04Dec2024 20:14:29.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> doble salto y no tengo daño de caida
-[04Dec2024 20:14:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> aguanto mas las explosiones y asi
-[04Dec2024 20:14:40.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> steampunk
-[04Dec2024 20:14:56.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> chim
-[04Dec2024 20:15:05.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> se crafteaba segun yo
-[04Dec2024 20:15:18.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> segun lo visto si
-[04Dec2024 20:15:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> custom crafting creo
-[04Dec2024 20:15:57.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Ghost! Ghost! Toast?]
-[04Dec2024 20:15:58.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to poopy8]
-[04Dec2024 20:16:14.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Ghost! Ghost! Toast?]
-[04Dec2024 20:17:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set sanity to 100.0 for 4 players]
-[04Dec2024 20:17:26.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
-[04Dec2024 20:18:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to Kl0udyy]
-[04Dec2024 20:18:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to Kl0udyy]
-[04Dec2024 20:18:14.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported 4 entities to TheMasterRoshiii]
-[04Dec2024 20:19:05.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi lost connection: Disconnected
-[04Dec2024 20:19:05.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi left the game
-[04Dec2024 20:19:05.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client OscarJapi
-[04Dec2024 20:19:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Stopping the server]
-[04Dec2024 20:19:10.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[04Dec2024 20:19:10.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[04Dec2024 20:19:11.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[04Dec2024 20:19:11.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04Dec2024 20:19:13.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[04Dec2024 20:19:13.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[04Dec2024 20:19:13.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04Dec2024 20:19:13.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04Dec2024 20:19:13.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Dec2024 04:38:02.435] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2775 advancements
+[05Dec2024 04:38:02.444] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[05Dec2024 04:38:02.450] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[05Dec2024 04:38:03.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[05Dec2024 04:38:03.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Dec2024 04:38:03.624] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Dec2024 04:38:03.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Dec2024 04:38:03.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Dec2024 04:38:03.824] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[05Dec2024 04:38:03.905] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05Dec2024 04:38:03.906] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05Dec2024 04:38:03.906] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05Dec2024 04:38:03.906] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05Dec2024 04:38:04.089] [Server thread/INFO] [FTB Teams/]: loaded team data: 4 known players, 4 teams total
+[05Dec2024 04:38:04.107] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Dec2024 04:38:09.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Dec2024 04:38:12.747] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:12.762] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:12.771] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:12.808] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:12.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:12.848] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:12.887] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:13.309] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:13.438] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:14.044] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:14.681] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:14.958] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:15.434] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:15.933] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Dec2024 04:38:16.433] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 31%
+[05Dec2024 04:38:16.935] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[05Dec2024 04:38:17.235] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7803 ms
+[05Dec2024 04:38:17.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (13.315s)! For help, type "help"
+[05Dec2024 04:38:17.278] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Dec2024 04:38:17.303] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[05Dec2024 04:38:17.315] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[05Dec2024 04:44:37.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:43747] logged in with entity id 9 at (10042.120871825204, 41.25220334025373, 11793.517584355764)
+[05Dec2024 04:44:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[05Dec2024 04:44:39.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
+[05Dec2024 04:44:49.867] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[05Dec2024 04:44:49.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[05Dec2024 04:45:33.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Disconnected
+[05Dec2024 04:45:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[05Dec2024 04:45:33.462] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
