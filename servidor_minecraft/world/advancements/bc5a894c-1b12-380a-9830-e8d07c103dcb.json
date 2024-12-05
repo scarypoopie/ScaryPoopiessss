@@ -1826,6 +1826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-05 05:54:44 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-05 05:29:10 +0000"
@@ -1850,9 +1856,21 @@
     },
     "done": true
   },
+  "watching:main/ghost_miner": {
+    "criteria": {
+      "requirement": "2024-12-05 06:02:47 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
     "criteria": {
       "leafcutter_ant_pupa": "2024-12-05 05:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
     },
     "done": true
   },
@@ -1877,6 +1895,12 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-05 05:31:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
     },
     "done": true
   },
@@ -2006,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-12-05 05:17:18 +0000"
@@ -2051,6 +2081,12 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-12-05 05:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
     },
     "done": true
   },
@@ -2126,6 +2162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2024-12-05 05:38:09 +0000"
@@ -2180,6 +2222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2024-12-05 05:28:48 +0000"
@@ -2216,9 +2264,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-05 05:59:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-05 05:45:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-05 05:58:18 +0000"
     },
     "done": true
   },
@@ -2324,6 +2384,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-05 05:54:44 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "ocean_bubble_1": "2024-12-05 05:34:04 +0000",
@@ -2350,6 +2422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-05 05:31:02 +0000"
@@ -2359,6 +2437,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-05 05:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
     },
     "done": true
   },
@@ -2389,6 +2473,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2024-12-05 05:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:18 +0000"
     },
     "done": true
   },

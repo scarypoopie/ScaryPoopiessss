@@ -2723,3 +2723,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 05:57:09.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> solo vi el pasillo
 [05Dec2024 05:57:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> a
 [05Dec2024 05:57:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> busquemos mas
+[05Dec2024 05:58:19.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 05:58:19.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 05:58:23.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> huh
+[05Dec2024 05:58:27.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> no hay nada
+[05Dec2024 05:58:32.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> estara mal spawneada?
+[05Dec2024 05:58:38.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> talvez?
+[05Dec2024 05:59:43.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Getting an Upgrade]
+[05Dec2024 06:00:05.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1941, y=45, z=1083} BlockPos{x=-1942, y=44, z=1083}
+[05Dec2024 06:00:22.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> perame
+[05Dec2024 06:00:28.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> ok
+[05Dec2024 06:02:08.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> me voy a ocupar tantito
+[05Dec2024 06:02:12.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> pero vuelvo
+[05Dec2024 06:02:18.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> dale
+[05Dec2024 06:02:23.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> si quieres sigue explorando y me hago tp a ti
+[05Dec2024 06:02:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> ando en el make it meme del vc xd
+[05Dec2024 06:02:47.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [WHAT WAS THAT?]
+[05Dec2024 06:02:47.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [WHAT WAS THAT?]
+[05Dec2024 06:03:19.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:03:19.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Dec2024 06:08:19.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Dec2024 06:08:19.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

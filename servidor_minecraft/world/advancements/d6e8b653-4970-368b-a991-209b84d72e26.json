@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-05 05:55:10 +0000"
+    },
+    "done": true
+  },
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-05 04:55:23 +0000"
@@ -107,6 +113,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
+    },
+    "done": true
+  },
+  "watching:main/ghost_miner": {
+    "criteria": {
+      "requirement": "2024-12-05 06:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 05:06:54 +0000"
@@ -131,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-05 04:57:08 +0000"
@@ -146,6 +176,24 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-05 04:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
@@ -182,6 +230,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-05 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
@@ -233,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-05 04:55:24 +0000"
@@ -254,6 +314,18 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2024-12-05 05:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
@@ -403,9 +475,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
     "criteria": {
       "has_bone": "2024-12-05 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
@@ -475,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-05 04:57:08 +0000"
@@ -505,6 +595,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-05 05:51:11 +0000"
@@ -526,6 +622,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-05 05:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
     },
     "done": true
   },
@@ -607,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-05 05:12:39 +0000"
@@ -631,6 +739,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-05 04:55:21 +0000"
@@ -640,6 +754,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-05 05:14:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
@@ -769,6 +889,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-05 04:55:21 +0000"
@@ -790,6 +922,18 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2024-12-05 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-05 05:55:11 +0000"
     },
     "done": true
   },
@@ -877,9 +1021,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-05 05:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
     },
     "done": true
   },
@@ -910,6 +1066,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 05:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
     },
     "done": true
   },
@@ -949,6 +1111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-05 05:51:12 +0000"
@@ -979,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2024-12-05 05:41:35 +0000"
@@ -1000,6 +1174,12 @@
   "valhelsia_structures:recipes/building_blocks/oak_post": {
     "criteria": {
       "has_item": "2024-12-05 05:11:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
@@ -1036,6 +1216,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-05 04:55:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
@@ -1147,9 +1333,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
   "simpleradio:recipes/tools/spuddie_talkie": {
     "criteria": {
       "has_potato": "2024-12-05 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-12-05 05:55:10 +0000"
     },
     "done": true
   },
@@ -1246,6 +1444,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-05 04:55:24 +0000"
@@ -1261,6 +1471,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-12-05 05:44:24 +0000",
+      "bread": "2024-12-05 05:59:35 +0000",
       "golden_apple": "2024-12-05 05:12:13 +0000",
       "cooked_chicken": "2024-12-05 05:15:40 +0000"
     },
@@ -1281,6 +1492,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-05 05:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
     },
     "done": true
   },
@@ -1320,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-05 06:00:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2024-12-05 05:42:49 +0000"
@@ -1347,6 +1570,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-05 04:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-05 05:58:01 +0000"
     },
     "done": true
   },
@@ -1389,6 +1618,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-05 05:12:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-05 05:55:09 +0000"
     },
     "done": true
   },
