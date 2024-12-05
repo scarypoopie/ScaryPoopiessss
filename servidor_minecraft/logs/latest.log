@@ -145,3 +145,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Dec2024 04:45:33.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Disconnected
 [05Dec2024 04:45:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
 [05Dec2024 04:45:33.462] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[05Dec2024 04:48:14.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SoulO_Q[/127.174.11.246:46417] logged in with entity id 330 at (2.5, 64.0, 4.5)
+[05Dec2024 04:48:14.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q joined the game
+[05Dec2024 04:48:15.663] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SoulO_Q (18)
+[05Dec2024 04:48:15.663] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SoulO_Q
+[05Dec2024 04:48:48.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Amateur Archaeologist]
+[05Dec2024 04:51:08.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [He's Watching...]
+[05Dec2024 04:51:21.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made SoulO_Q a server operator
+[05Dec2024 04:51:30.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[05Dec2024 04:51:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: revisa si tienes op<--[HERE]
+[05Dec2024 04:51:40.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] revisa si tienes op
+[05Dec2024 04:51:51.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
+[05Dec2024 04:51:55.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nais
+[05Dec2024 04:52:12.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] diviertase namas
+[05Dec2024 04:52:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> Que puedo hacer?
+[05Dec2024 04:54:02.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Survival Mode]
+[05Dec2024 04:56:32.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:57187] logged in with entity id 1503 at (10042.120871825204, 41.25220334025373, 11793.517584355764)
+[05Dec2024 04:56:32.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[05Dec2024 04:56:35.382] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[05Dec2024 04:56:35.383] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[05Dec2024 04:56:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> POOPIE CUBITOOO
+[05Dec2024 04:57:08.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Stone Age]
