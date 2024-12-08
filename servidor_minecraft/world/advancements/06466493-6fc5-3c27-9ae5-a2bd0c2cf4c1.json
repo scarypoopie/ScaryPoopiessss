@@ -433,6 +433,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-08 04:24:48 +0000"
+    },
+    "done": false
+  },
   "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
     "criteria": {
       "has_bone": "2024-12-08 03:47:45 +0000"
@@ -505,6 +511,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-08 04:24:48 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2024-12-08 03:47:45 +0000"
@@ -517,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-08 04:24:48 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "oak_house_small_2": "2024-12-08 03:53:44 +0000"
@@ -526,6 +544,18 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2024-12-08 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 04:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 04:24:49 +0000"
     },
     "done": true
   },

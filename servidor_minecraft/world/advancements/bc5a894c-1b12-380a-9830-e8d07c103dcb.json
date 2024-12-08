@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-08 04:23:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-08 04:05:19 +0000"
@@ -236,6 +242,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-08 04:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-08 04:20:35 +0000"
     },
     "done": true
   },
@@ -256,6 +268,24 @@
       "has_string": "2024-12-08 04:05:19 +0000"
     },
     "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-08 04:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-08 04:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2024-12-08 04:20:35 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/loom": {
     "criteria": {

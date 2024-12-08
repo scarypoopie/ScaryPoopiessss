@@ -1715,3 +1715,80 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:18:35.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yo la escucho bien
 [08Dec2024 04:18:38.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> como en dc
 [08Dec2024 04:18:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ccon carteles
+[08Dec2024 04:19:42.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set Kl0udyy's game mode to Survival Mode]
+[08Dec2024 04:19:42.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set Dark_inng's game mode to Survival Mode]
+[08Dec2024 04:19:46.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Set own game mode to Creative Mode]
+[08Dec2024 04:19:52.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was killed
+[08Dec2024 04:19:52.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Killed SoulO_Q]
+[08Dec2024 04:20:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Amateur Archaeologist]
+[08Dec2024 04:20:11.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was slain by Zombie
+[08Dec2024 04:20:32.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 64 [Golden Apple] to poopy8]
+[08Dec2024 04:20:52.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
+[08Dec2024 04:20:53.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Disconnected
+[08Dec2024 04:20:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
+[08Dec2024 04:20:53.497] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
+[08Dec2024 04:21:19.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me dice cuando se vayan a salir para apagar el server
+[08Dec2024 04:21:26.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] mi net no sirve
+[08Dec2024 04:21:33.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pdst: soy Master
+[08Dec2024 04:21:44.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Zombie
+[08Dec2024 04:21:47.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=72, z=10} BlockPos{x=-164, y=71, z=11}
+[08Dec2024 04:21:48.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=72, z=10} BlockPos{x=-164, y=71, z=11}
+[08Dec2024 04:21:49.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=72, z=10} BlockPos{x=-164, y=71, z=10}
+[08Dec2024 04:21:51.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=72, z=10} BlockPos{x=-163, y=70, z=10}
+[08Dec2024 04:21:53.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=72, z=10} BlockPos{x=-164, y=71, z=10}
+[08Dec2024 04:21:53.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=72, z=10} BlockPos{x=-163, y=70, z=10}
+[08Dec2024 04:22:00.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported dzbas176 to Kl0udyy]
+[08Dec2024 04:22:12.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=72, z=10} BlockPos{x=-163, y=71, z=16}
+[08Dec2024 04:22:32.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Amateur Archaeologist]
+[08Dec2024 04:22:52.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Sneak 100]
+[08Dec2024 04:22:58.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Kl0udyy
+[08Dec2024 04:22:58.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Sneak 100]
+[08Dec2024 04:23:10.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Monster Hunter]
+[08Dec2024 04:23:23.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-142, y=70, z=10} BlockPos{x=-143, y=70, z=10}
+[08Dec2024 04:23:32.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b8351296-2373-3bfa-8b11-362f024e7d98 timed out
+[08Dec2024 04:23:32.360] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Kl0udyy
+[08Dec2024 04:23:32.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
+[08Dec2024 04:23:34.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kl0udyy lost connection: Timed out
+[08Dec2024 04:23:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy left the game
+[08Dec2024 04:23:34.995] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kl0udyy
+[08Dec2024 04:23:35.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was shot by Skeleton
+[08Dec2024 04:23:44.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Warden
+[08Dec2024 04:23:45.440] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-146, y=70, z=25}
+[08Dec2024 04:23:46.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-145, y=71, z=26}
+[08Dec2024 04:23:47.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was shot by Skeleton
+[08Dec2024 04:24:24.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was shot by Skeleton
+[08Dec2024 04:24:41.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was blown up by Creeper
+[08Dec2024 04:24:48.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Monster Hunter]
+[08Dec2024 04:24:51.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Warden
+[08Dec2024 04:24:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Survival Mode]
+[08Dec2024 04:25:00.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Warden
+[08Dec2024 04:25:07.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Diamond Boots] to poopy8]
+[08Dec2024 04:25:11.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Warden
+[08Dec2024 04:25:13.148] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kl0udyy[/127.213.27.136:39459] logged in with entity id 32622 at (-148.41676702549094, 72.0, 15.968644828722802)
+[08Dec2024 04:25:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy joined the game
+[08Dec2024 04:25:13.443] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kl0udyy (18)
+[08Dec2024 04:25:13.445] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
+[08Dec2024 04:25:16.934] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b8351296-2373-3bfa-8b11-362f024e7d98
+[08Dec2024 04:25:17.937] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b8351296-2373-3bfa-8b11-362f024e7d98
+[08Dec2024 04:25:17.938] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kl0udyy (b8351296-2373-3bfa-8b11-362f024e7d98) successfully connected to voice chat
+[08Dec2024 04:25:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Diamond Chestplate] to poopy8]
+[08Dec2024 04:25:28.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
+[08Dec2024 04:25:29.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Diamond Helmet] to poopy8]
+[08Dec2024 04:25:34.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 1 [Diamond Leggings] to poopy8]
+[08Dec2024 04:25:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Removed 217 item(s) from 5 players]
+[08Dec2024 04:26:03.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set Dark_inng's game mode to Survival Mode]
+[08Dec2024 04:26:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set SoulO_Q's game mode to Survival Mode]
+[08Dec2024 04:26:03.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Survival Mode]
+[08Dec2024 04:26:08.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:26:18.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was blown up by Creeper
+[08Dec2024 04:26:19.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=71, z=14}
+[08Dec2024 04:27:00.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> jiji
+[08Dec2024 04:27:02.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was blown up by Creeper
+[08Dec2024 04:27:17.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dzbas176> jaja pndjo
+[08Dec2024 04:27:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Getting an Upgrade]
+[08Dec2024 04:27:34.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Stone Age]
+[08Dec2024 04:27:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Stone Age]
+[08Dec2024 04:27:43.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Getting an Upgrade]
+[08Dec2024 04:28:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Getting an Upgrade]
+[08Dec2024 04:28:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Stone Age]
+[08Dec2024 04:28:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Getting an Upgrade]
