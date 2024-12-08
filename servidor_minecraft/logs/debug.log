@@ -8510,3 +8510,243 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:28:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Getting an Upgrade]
 [08Dec2024 04:28:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Stone Age]
 [08Dec2024 04:28:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Getting an Upgrade]
+[08Dec2024 04:29:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was doomed to fall by poopy8
+[08Dec2024 04:29:59.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> HASHJAHSHJASHHS
+[08Dec2024 04:30:05.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 04:30:05.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 04:30:08.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> q pendejo
+[08Dec2024 04:30:11.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Acquire Hardware]
+[08Dec2024 04:30:11.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> por ratero
+[08Dec2024 04:30:14.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Acquire Hardware]
+[08Dec2024 04:30:21.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:30:21.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> te gane
+[08Dec2024 04:30:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:30:51.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Suit Up]
+[08Dec2024 04:33:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was slain by Zombie
+[08Dec2024 04:33:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Suit Up]
+[08Dec2024 04:34:10.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was slain by Murmur
+[08Dec2024 04:34:15.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 fell from a high place
+[08Dec2024 04:34:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Acquire Hardware]
+[08Dec2024 04:34:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Barrel Booty]
+[08Dec2024 04:34:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Murmur
+[08Dec2024 04:34:50.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=71, z=-14} BlockPos{x=-143, y=70, z=13}
+[08Dec2024 04:35:05.317] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 04:35:05.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 04:35:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> Bajenle a jukebox
+[08Dec2024 04:35:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Mimic
+[08Dec2024 04:36:55.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb timed out
+[08Dec2024 04:36:55.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player poopy8
+[08Dec2024 04:36:55.367] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to poopy8
+[08Dec2024 04:36:55.367] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with poopy8
+[08Dec2024 04:36:55.367] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with poopy8
+[08Dec2024 04:36:55.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 04:36:55.368] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of bc5a894c-1b12-380a-9830-e8d07c103dcb to disconnected: {disabled=false, disconnected=true, uuid=bc5a894c-1b12-380a-9830-e8d07c103dcb, name=poopy8, group=null}
+[08Dec2024 04:37:01.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 04:37:01.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 04:37:01.541] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of poopy8
+[08Dec2024 04:37:01.541] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 04:37:32.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was shot by Skeleton
+[08Dec2024 04:37:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Acquire Hardware]
+[08Dec2024 04:37:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:37:47.380] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.380] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.380] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.380] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:37:47.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:38:22.621] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 27 messages to dispatch.
+[08Dec2024 04:38:22.646] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[08Dec2024 04:38:22.698] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[08Dec2024 04:38:22.740] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[08Dec2024 04:38:22.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[08Dec2024 04:38:22.840] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[08Dec2024 04:38:22.902] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [kuma_api, amendments, geckolib, playeranimator, customskinloader, jei, graveyard, goblintraders, valhelsia_furniture, sophisticatedcore, waystones, structory, darkness, christmasfestivity, citadel, alexsmobs, artifacts, mixinextras, adorabuild_structures, sophisticatedbackpacks, starlight, balm, immersive_armors, sodiumoptionsapi, paraglider, cloth_config, forge, sodiumdynamiclights, konkrete, embeddium, rubidium, emotecraft, corpse, nyfsspiders, sanitydim, minecraft, horror_element_mod, farmersdelight, voicechat, sound_physics_remastered, moonlight, fabric_api_base, silentlib, valhelsia_structures, watching, sleep_tight, farmers_delight_christmas_editio, curios, xaerominimap, rightclickharvest, oculus, lexiconfig, doppelgangermod, bwrtherain, architectury, ftblibrary, ftbteams, ftbquests, appleskin, lootr, justzoom, framework, simpleradio, expandability, valhelsia_core]
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'farmers_delight_christmas_editio:farmers_delight_christmas_editio' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ia:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.903] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.904] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.904] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.904] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bwrtherain:bwrtherain' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.904] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 04:38:22.904] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.904] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.904] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'silentlib:network' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.905] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'horror_element_mod:horror_element_mod' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleradio:channel' : Version test of '0' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sleep_tight:channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sanitydim:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'doppelgangermod:doppelgangermod' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lootr:main_network_channel' : Version test of '2' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[08Dec2024 04:38:22.906] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[08Dec2024 04:38:22.907] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[08Dec2024 04:38:22.907] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[08Dec2024 04:38:22.907] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[08Dec2024 04:38:22.907] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:22.907] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:22.944] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[08Dec2024 04:38:22.944] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[08Dec2024 04:38:22.944] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:22.944] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:22.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[08Dec2024 04:38:23.043] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[08Dec2024 04:38:23.099] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.100] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[08Dec2024 04:38:23.143] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[08Dec2024 04:38:23.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[08Dec2024 04:38:23.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[08Dec2024 04:38:23.297] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[08Dec2024 04:38:23.348] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[08Dec2024 04:38:23.369] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[08Dec2024 04:38:23.369] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.369] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.402] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry valhelsia_structures:structure_height_provider_types' to 'fml:handshake' sequence 15
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.402] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.403] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[08Dec2024 04:38:23.403] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.403] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.403] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[08Dec2024 04:38:23.403] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.403] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.442] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[08Dec2024 04:38:23.502] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[08Dec2024 04:38:23.543] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[08Dec2024 04:38:23.582] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[08Dec2024 04:38:23.582] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.582] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.583] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.597] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[08Dec2024 04:38:23.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[08Dec2024 04:38:23.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[08Dec2024 04:38:23.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[08Dec2024 04:38:23.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.657] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[08Dec2024 04:38:23.737] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[08Dec2024 04:38:23.738] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.738] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.738] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[08Dec2024 04:38:23.738] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:23.738] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:23.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 22
+[08Dec2024 04:38:23.799] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 23
+[08Dec2024 04:38:23.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 24
+[08Dec2024 04:38:23.897] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 25
+[08Dec2024 04:38:23.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 26
+[08Dec2024 04:38:27.435] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[08Dec2024 04:38:27.435] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:27.435] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:27.436] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[08Dec2024 04:38:27.436] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:27.436] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:27.476] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:27.482] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[08Dec2024 04:38:27.482] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[08Dec2024 04:38:27.482] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[08Dec2024 04:38:27.493] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[08Dec2024 04:38:27.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:56883] logged in with entity id 36855 at (-223.96578885472405, 15.0, -15.792491668365258)
+[08Dec2024 04:38:27.548] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@60656646 into net.minecraft.network.Connection@3e2d8857
+[08Dec2024 04:38:27.549] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[08Dec2024 04:38:27.549] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[08Dec2024 04:38:27.549] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[08Dec2024 04:38:27.549] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[08Dec2024 04:38:27.549] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[08Dec2024 04:38:27.549] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[08Dec2024 04:38:27.549] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[08Dec2024 04:38:27.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[08Dec2024 04:38:27.596] [Server thread/DEBUG] [FTB Teams/]: player bc5a894c-1b12-380a-9830-e8d07c103dcb logged in, player team = poopy8#bc5a894c
+[08Dec2024 04:38:27.596] [Server thread/DEBUG] [FTB Teams/]: syncing player team data, all = false
+[08Dec2024 04:38:27.602] [Server thread/DEBUG] [FTB Teams/]: updating team presence
+[08Dec2024 04:38:27.602] [Server thread/DEBUG] [FTB Teams/]: sending team login event for bc5a894c-1b12-380a-9830-e8d07c103dcb...
+[08Dec2024 04:38:27.602] [Server thread/DEBUG] [FTB Quests/]: Wrote 529 bytes, 0 objects
+[08Dec2024 04:38:27.602] [Server thread/DEBUG] [FTB Teams/]: team login event for bc5a894c-1b12-380a-9830-e8d07c103dcb sent
+[08Dec2024 04:38:27.603] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of poopy8: {disabled=false, disconnected=true, uuid=bc5a894c-1b12-380a-9830-e8d07c103dcb, name=poopy8, group=null}
+[08Dec2024 04:38:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Acquire Hardware]
+[08Dec2024 04:38:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
+[08Dec2024 04:38:33.653] [Netty Epoll Server IO #6/DEBUG] [emotecraft/]: [emotes server] Received data from: bc5a894c-1b12-380a-9830-e8d07c103dcb data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[08Dec2024 04:38:33.653] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[08Dec2024 04:38:33.653] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to poopy8
+[08Dec2024 04:38:33.653] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with poopy8
+[08Dec2024 04:38:33.654] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 2 volume categories with poopy8
+[08Dec2024 04:38:33.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 04:38:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Barrel Booty]
+[08Dec2024 04:38:42.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
+[08Dec2024 04:38:54.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 04:38:55.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 04:38:55.838] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of poopy8 to connected: {disabled=false, disconnected=false, uuid=bc5a894c-1b12-380a-9830-e8d07c103dcb, name=poopy8, group=null}
+[08Dec2024 04:38:55.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 04:38:55.917] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of poopy8: {disabled=false, disconnected=false, uuid=bc5a894c-1b12-380a-9830-e8d07c103dcb, name=poopy8, group=null}
+[08Dec2024 04:39:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
+[08Dec2024 04:39:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:39:25.394] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kl0udyy: {disabled=true, disconnected=false, uuid=b8351296-2373-3bfa-8b11-362f024e7d98, name=Kl0udyy, group=null}
+[08Dec2024 04:39:26.230] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kl0udyy: {disabled=false, disconnected=false, uuid=b8351296-2373-3bfa-8b11-362f024e7d98, name=Kl0udyy, group=null}

@@ -1792,3 +1792,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:28:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Getting an Upgrade]
 [08Dec2024 04:28:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Stone Age]
 [08Dec2024 04:28:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Getting an Upgrade]
+[08Dec2024 04:29:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was doomed to fall by poopy8
+[08Dec2024 04:29:59.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> HASHJAHSHJASHHS
+[08Dec2024 04:30:08.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> q pendejo
+[08Dec2024 04:30:11.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Acquire Hardware]
+[08Dec2024 04:30:11.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> por ratero
+[08Dec2024 04:30:14.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Acquire Hardware]
+[08Dec2024 04:30:21.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:30:21.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> te gane
+[08Dec2024 04:30:39.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:30:51.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Suit Up]
+[08Dec2024 04:33:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was slain by Zombie
+[08Dec2024 04:33:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Suit Up]
+[08Dec2024 04:34:10.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was slain by Murmur
+[08Dec2024 04:34:15.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 fell from a high place
+[08Dec2024 04:34:22.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Acquire Hardware]
+[08Dec2024 04:34:37.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Barrel Booty]
+[08Dec2024 04:34:43.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Murmur
+[08Dec2024 04:34:50.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-145, y=71, z=-14} BlockPos{x=-143, y=70, z=13}
+[08Dec2024 04:35:49.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> Bajenle a jukebox
+[08Dec2024 04:35:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Mimic
+[08Dec2024 04:36:55.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb timed out
+[08Dec2024 04:36:55.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player poopy8
+[08Dec2024 04:36:55.368] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 04:37:01.541] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 04:37:01.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 04:37:01.541] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 04:37:32.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was shot by Skeleton
+[08Dec2024 04:37:36.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Acquire Hardware]
+[08Dec2024 04:37:42.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:38:27.548] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:56883] logged in with entity id 36855 at (-223.96578885472405, 15.0, -15.792491668365258)
+[08Dec2024 04:38:27.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[08Dec2024 04:38:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Acquire Hardware]
+[08Dec2024 04:38:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
+[08Dec2024 04:38:33.653] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[08Dec2024 04:38:33.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 04:38:39.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Barrel Booty]
+[08Dec2024 04:38:42.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
+[08Dec2024 04:38:54.831] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 04:38:55.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 04:38:55.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 04:39:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
+[08Dec2024 04:39:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Isn't It Iron Pick]
