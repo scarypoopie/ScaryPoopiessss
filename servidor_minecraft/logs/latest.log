@@ -972,3 +972,337 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 03:39:00.972] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kl0udyy (18)
 [08Dec2024 03:39:00.973] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
 [08Dec2024 03:39:04.797] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b8351296-2373-3bfa-8b11-362f024e7d98
+[08Dec2024 03:39:05.799] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b8351296-2373-3bfa-8b11-362f024e7d98
+[08Dec2024 03:39:05.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kl0udyy (b8351296-2373-3bfa-8b11-362f024e7d98) successfully connected to voice chat
+[08Dec2024 03:39:16.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Made p no longer a server operator]
+[08Dec2024 03:39:21.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Made oscarjpi no longer a server operator]
+[08Dec2024 03:39:29.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-154, y=71, z=13}
+[08Dec2024 03:39:29.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-154, y=71, z=13}
+[08Dec2024 03:39:36.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Made Oscarjai no longer a server operator]
+[08Dec2024 03:39:59.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SoulO_Q[/127.174.11.246:57115] logged in with entity id 10588 at (-157.5, 72.0, 11.5)
+[08Dec2024 03:39:59.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q joined the game
+[08Dec2024 03:39:59.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SoulO_Q (18)
+[08Dec2024 03:39:59.774] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SoulO_Q
+[08Dec2024 03:40:03.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Stone Age]
+[08Dec2024 03:40:03.194] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player d6e8b653-4970-368b-a991-209b84d72e26
+[08Dec2024 03:40:04.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player d6e8b653-4970-368b-a991-209b84d72e26
+[08Dec2024 03:40:04.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player SoulO_Q (d6e8b653-4970-368b-a991-209b84d72e26) successfully connected to voice chat
+[08Dec2024 03:40:08.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: The difficulty has been set to Hard]
+[08Dec2024 03:40:10.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-156, y=71, z=17}
+[08Dec2024 03:40:10.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-155, y=71, z=17}
+[08Dec2024 03:40:14.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> alabestia, no sabia que las cuevas tenian eco
+[08Dec2024 03:40:18.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Set own game mode to Spectator Mode]
+[08Dec2024 03:40:24.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was slain by Dpmoobloom
+[08Dec2024 03:40:25.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set SoulO_Q's game mode to Creative Mode]
+[08Dec2024 03:40:28.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Set own game mode to Creative Mode]
+[08Dec2024 03:40:28.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> NoOooooooooo
+[08Dec2024 03:40:39.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> Buenas
+[08Dec2024 03:40:57.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Crops of the Wild]
+[08Dec2024 03:41:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yo si lo veo con skin
+[08Dec2024 03:41:18.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> XD
+[08Dec2024 03:41:24.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Crops of the Wild]
+[08Dec2024 03:41:30.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yahora porque no hay ñuz
+[08Dec2024 03:41:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> me estan haciendo bulin
+[08Dec2024 03:41:34.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> luz
+[08Dec2024 03:41:42.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Crops of the Wild]
+[08Dec2024 03:41:46.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> se fue la luz!!!!!!!!!!!
+[08Dec2024 03:41:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [poopy8: Gave 64 [Torch] to poopy8]
+[08Dec2024 03:41:51.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> mwuah
+[08Dec2024 03:42:07.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=61} BlockPos{x=-167, y=72, z=14}
+[08Dec2024 03:42:07.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=61} BlockPos{x=-167, y=72, z=14}
+[08Dec2024 03:42:08.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=61} BlockPos{x=-167, y=72, z=14}
+[08Dec2024 03:42:08.427] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=61} BlockPos{x=-167, y=72, z=14}
+[08Dec2024 03:42:15.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set Dark_inng's game mode to Survival Mode]
+[08Dec2024 03:42:15.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set OscarJapi's game mode to Survival Mode]
+[08Dec2024 03:42:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Survival Mode]
+[08Dec2024 03:42:15.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set SoulO_Q's game mode to Survival Mode]
+[08Dec2024 03:42:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
+[08Dec2024 03:42:18.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Stay dead]
+[08Dec2024 03:42:23.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Set own game mode to Creative Mode]
+[08Dec2024 03:42:25.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> oscar estudioso
+[08Dec2024 03:42:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> y porque cosas de merry crima
+[08Dec2024 03:42:29.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> awebo
+[08Dec2024 03:42:36.793] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00
+[08Dec2024 03:42:38.243] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00 as they already exist
+[08Dec2024 03:42:38.295] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00 as they already exist
+[08Dec2024 03:42:41.092] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00
+[08Dec2024 03:42:41.093] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00
+[08Dec2024 03:42:47.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=61} BlockPos{x=-156, y=68, z=24}
+[08Dec2024 03:43:03.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was slain by Zombie
+[08Dec2024 03:43:11.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Zombie
+[08Dec2024 03:43:24.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Monster Hunter]
+[08Dec2024 03:43:25.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=66, z=61} BlockPos{x=-155, y=71, z=21}
+[08Dec2024 03:43:28.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Zombie
+[08Dec2024 03:43:35.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-156, y=71, z=5}
+[08Dec2024 03:43:35.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-157, y=72, z=3}
+[08Dec2024 03:43:35.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-155, y=71, z=5}
+[08Dec2024 03:43:35.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-158, y=71, z=4}
+[08Dec2024 03:43:35.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-159, y=71, z=5}
+[08Dec2024 03:43:49.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was slain by Zombie
+[08Dec2024 03:43:56.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Zombie
+[08Dec2024 03:44:52.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
+[08Dec2024 03:44:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Spectator Mode]
+[08Dec2024 03:45:00.644] [Server thread/INFO] [simpleradio/]: Added receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 607.56
+[08Dec2024 03:45:00.794] [Server thread/INFO] [simpleradio/]: Failed to add receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 607.56 as they already exist
+[08Dec2024 03:45:00.992] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00 as they already exist
+[08Dec2024 03:45:01.292] [Server thread/INFO] [simpleradio/]: Failed to add receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 607.56 as they already exist
+[08Dec2024 03:45:01.292] [Server thread/INFO] [simpleradio/]: Failed to add receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 607.56 as they already exist
+[08Dec2024 03:45:01.843] [Server thread/INFO] [simpleradio/]: Failed to add receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 607.56 as they already exist
+[08Dec2024 03:45:01.844] [Server thread/INFO] [simpleradio/]: Failed to add receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 607.56 as they already exist
+[08Dec2024 03:45:03.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
+[08Dec2024 03:45:07.645] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 607.56
+[08Dec2024 03:45:07.645] [Server thread/INFO] [simpleradio/]: Added receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 607.56
+[08Dec2024 03:45:08.942] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 607.56 as they already exist
+[08Dec2024 03:45:10.492] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 607.56
+[08Dec2024 03:45:11.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> prueben la papa
+[08Dec2024 03:45:11.892] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 607.56 as they already exist
+[08Dec2024 03:45:13.842] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00 as they already exist
+[08Dec2024 03:45:13.842] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 607.56 as they already exist
+[08Dec2024 03:45:14.641] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00 as they already exist
+[08Dec2024 03:45:14.642] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 607.56 as they already exist
+[08Dec2024 03:45:14.642] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00 as they already exist
+[08Dec2024 03:45:29.196] [Server thread/INFO] [simpleradio/]: Added receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 000.00
+[08Dec2024 03:45:29.246] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00
+[08Dec2024 03:45:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Applied effect Night Vision to 7 targets]
+[08Dec2024 03:45:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by Zombie
+[08Dec2024 03:45:47.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-168, y=73, z=12}
+[08Dec2024 03:45:47.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-169, y=73, z=12}
+[08Dec2024 03:45:51.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 burned to death
+[08Dec2024 03:45:53.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Source of Evil]
+[08Dec2024 03:45:53.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Getting an Upgrade]
+[08Dec2024 03:45:53.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Stone Age]
+[08Dec2024 03:46:01.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=73, z=18}
+[08Dec2024 03:46:02.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Source of Evil]
+[08Dec2024 03:46:02.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Stone Age]
+[08Dec2024 03:46:02.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Getting an Upgrade]
+[08Dec2024 03:46:10.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-168, y=74, z=12}
+[08Dec2024 03:46:13.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by OscarJapi
+[08Dec2024 03:46:19.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=72, z=14}
+[08Dec2024 03:46:19.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-168, y=72, z=14}
+[08Dec2024 03:46:19.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-169, y=72, z=13}
+[08Dec2024 03:46:28.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> me escuchan?
+[08Dec2024 03:46:34.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi was slain by dzbas176
+[08Dec2024 03:46:40.605] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00 as they already exist
+[08Dec2024 03:46:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Monster Hunter]
+[08Dec2024 03:47:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> ya vengo
+[08Dec2024 03:47:15.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was blown up by Creeper
+[08Dec2024 03:47:15.901] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 607.56
+[08Dec2024 03:47:21.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reloading!
+[08Dec2024 03:47:21.673] [Server thread/INFO] [croissantnova.sanitydim.SanityMod/]: Registering sanity command...
+[08Dec2024 03:47:21.674] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[08Dec2024 03:47:22.151] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmers_delight_christmas_editio:cream_cheese_and_berry_log_slice_recipe
+com.google.gson.JsonSyntaxException: Expected top element to be a JsonObject, was "type"
+	at net.minecraft.util.GsonHelper.m_13918_(GsonHelper.java:413) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_287964_(ReloadCommand.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.commands.Commands.m_230957_(Commands.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_139665_(DedicatedServer.java:298) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:284) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08Dec2024 03:47:22.158] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmers_delight_christmas_editio:create_compat_coin_recipe
+com.google.gson.JsonSyntaxException: Unknown item 'create:bar_of_chocolate'
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipe.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23200!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.3.7-universal.jar%23200!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(Ingredient.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.item.crafting.Ingredient.m_43917_(Ingredient.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.readIngredients(CuttingBoardRecipe.java:195) ~[FarmersDelight-1.20.1-1.2.6.jar%23162!/:1.20.1-1.2.6]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.fromJson(CuttingBoardRecipe.java:172) ~[FarmersDelight-1.20.1-1.2.6.jar%23162!/:1.20.1-1.2.6]
+	at vectorwing.farmersdelight.common.crafting.CuttingBoardRecipe$Serializer.m_6729_(CuttingBoardRecipe.java:164) ~[FarmersDelight-1.20.1-1.2.6.jar%23162!/:1.20.1-1.2.6]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23200!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServer.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_138235_(ReloadCommand.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.commands.ReloadCommand.m_287964_(ReloadCommand.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:264) ~[brigadier-1.1.8.jar%2376!/:?]
+	at net.minecraft.commands.Commands.m_242674_(Commands.java:257) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.commands.Commands.m_230957_(Commands.java:237) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_139665_(DedicatedServer.java:298) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:284) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08Dec2024 03:47:22.238] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[08Dec2024 03:47:22.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dark_inng moved too quickly! -0.19400144937552,0.0,-10.525774438721477
+[08Dec2024 03:47:22.241] [Server thread/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23195!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 6 more
+[08Dec2024 03:47:22.300] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2767 advancements
+[08Dec2024 03:47:22.319] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[08Dec2024 03:47:22.322] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[08Dec2024 03:47:23.606] [Server thread/INFO] [Lexiconfig/]: Starting lexicon revision!
+[08Dec2024 03:47:23.610] [Server thread/INFO] [simpleradio/]: Reloading compatibilities!
+[08Dec2024 03:47:23.611] [Server thread/INFO] [Lexiconfig/]: Finished lexicon revision!
+[08Dec2024 03:47:23.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dark_inng moved too quickly! -0.16622404213615027,0.0,-10.108542742983254
+[08Dec2024 03:47:27.103] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 547.33
+[08Dec2024 03:47:32.201] [Server thread/INFO] [simpleradio/]: Added receiver ff6943bc-4ea0-49a6-8ea5-3c0d56d9e6a8 to frequency 000.00
+[08Dec2024 03:47:39.748] [Server thread/INFO] [simpleradio/]: Added receiver 8ed4ba78-164b-4095-8d95-67e870ed3db3 to frequency 000.00
+[08Dec2024 03:47:42.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=72, z=11}
+[08Dec2024 03:47:42.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=72, z=11}
+[08Dec2024 03:47:43.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=72, z=11}
+[08Dec2024 03:47:43.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-161, y=72, z=10}
+[08Dec2024 03:47:43.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-161, y=72, z=10}
+[08Dec2024 03:47:49.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
+[08Dec2024 03:47:54.397] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 607.56
+[08Dec2024 03:48:07.948] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 607.56 as they already exist
+[08Dec2024 03:48:08.252] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 607.56 as they already exist
+[08Dec2024 03:48:08.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Disconnected
+[08Dec2024 03:48:08.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
+[08Dec2024 03:48:08.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
+[08Dec2024 03:48:08.546] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 607.56 as they already exist
+[08Dec2024 03:48:19.293] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 547.33 as they already exist
+[08Dec2024 03:48:19.646] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00
+[08Dec2024 03:48:21.794] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 607.56
+[08Dec2024 03:48:29.896] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 606.03
+[08Dec2024 03:48:38.553] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:43427] logged in with entity id 13759 at (-285.476165525464, 85.0, -286.81813201228636)
+[08Dec2024 03:48:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
+[08Dec2024 03:48:38.846] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
+[08Dec2024 03:48:38.846] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
+[08Dec2024 03:48:41.153] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 606.03 as they already exist
+[08Dec2024 03:48:46.251] [Server thread/INFO] [simpleradio/]: Added receiver bbba5ea1-3ff3-43fb-b381-49ba0981fc50 to frequency 000.00
+[08Dec2024 03:48:49.652] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 606.03
+[08Dec2024 03:48:49.708] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 606.03
+[08Dec2024 03:48:50.203] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 606.03 as they already exist
+[08Dec2024 03:48:53.826] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 03:48:54.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 03:48:54.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheMasterRoshiii (1567f6a1-8406-3181-bf29-77992b07c623) successfully connected to voice chat
+[08Dec2024 03:49:08.002] [Server thread/INFO] [simpleradio/]: Added receiver 53f936f7-7ab9-44c8-80fc-03674b9ba886 to frequency 000.00
+[08Dec2024 03:49:08.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Timed out
+[08Dec2024 03:49:08.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
+[08Dec2024 03:49:08.657] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
+[08Dec2024 03:49:09.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-156, y=71, z=11}
+[08Dec2024 03:49:30.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=72, z=12}
+[08Dec2024 03:49:30.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=72, z=12}
+[08Dec2024 03:49:30.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=72, z=12}
+[08Dec2024 03:49:40.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 03:49:45.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 03:49:58.888] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-4}
+[08Dec2024 03:50:11.676] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 606.03 as they already exist
+[08Dec2024 03:50:16.400] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 606.03
+[08Dec2024 03:50:18.100] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 606.03 as they already exist
+[08Dec2024 03:50:19.669] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00
+[08Dec2024 03:50:20.316] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00
+[08Dec2024 03:50:21.949] [Server thread/INFO] [simpleradio/]: Added receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 000.00
+[08Dec2024 03:50:25.348] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 000.00 as they already exist
+[08Dec2024 03:50:25.348] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 606.03 as they already exist
+[08Dec2024 03:50:27.748] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00 as they already exist
+[08Dec2024 03:50:39.947] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00 as they already exist
+[08Dec2024 03:50:42.598] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 000.00 as they already exist
+[08Dec2024 03:50:42.599] [Server thread/INFO] [simpleradio/]: Failed to add receiver 12224bcc-2ebe-378b-b713-8d610a40b8fe to frequency 606.03 as they already exist
+[08Dec2024 03:50:46.497] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00
+[08Dec2024 03:51:06.097] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13
+[08Dec2024 03:51:12.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has reached the goal [Half a flight]
+[08Dec2024 03:51:17.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has reached the goal [Half a flight]
+[08Dec2024 03:51:23.448] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13 as they already exist
+[08Dec2024 03:51:36.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> perame
+[08Dec2024 03:51:47.499] [Server thread/INFO] [simpleradio/]: Added receiver f53bc1e5-303b-4ef7-b59f-efbcc3d0008b to frequency 000.00
+[08Dec2024 03:52:17.201] [Server thread/INFO] [simpleradio/]: Added receiver b53f8cc1-bb8d-45c3-b58f-27ab6ddcb8aa to frequency 007.13
+[08Dec2024 03:52:21.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> se me escucha?
+[08Dec2024 03:52:37.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim oscar
+[08Dec2024 03:52:50.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> soul tenes que cambiar frecuencia y eso
+[08Dec2024 03:52:54.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> chim
+[08Dec2024 03:52:54.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> si oscar chim
+[08Dec2024 03:53:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> se te escucha bastante bien
+[08Dec2024 03:53:20.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi moved too quickly! -10.744390012102798,0.0,0.4991969030280927
+[08Dec2024 03:53:28.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> ve hablando
+[08Dec2024 03:53:29.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement ['X' Marks the Spot]
+[08Dec2024 03:53:35.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Amateur Archaeologist]
+[08Dec2024 03:53:38.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim
+[08Dec2024 03:53:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement ['X' Marks the Spot]
+[08Dec2024 03:53:47.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> aa
+[08Dec2024 03:53:53.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Amateur Archaeologist]
+[08Dec2024 03:53:56.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> pense que con tenerlo en la mano ya estaba
+[08Dec2024 03:54:00.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> si te escucho
+[08Dec2024 03:54:20.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim
+[08Dec2024 03:54:36.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> prueba mas lejos
+[08Dec2024 03:55:00.386] [Server thread/INFO] [simpleradio/]: Failed to add receiver d6e8b653-4970-368b-a991-209b84d72e26 to frequency 000.00 as they already exist
+[08Dec2024 03:55:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim
+[08Dec2024 03:55:16.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> cada vez peor, pero si xd
+[08Dec2024 03:55:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> es entendible
+[08Dec2024 03:55:26.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que cosa va mal?
+[08Dec2024 03:55:29.771] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1656, y=36, z=174}
+[08Dec2024 03:55:32.141] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1658, y=36, z=182}
+[08Dec2024 03:55:32.142] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1652, y=36, z=186}
+[08Dec2024 03:55:34.000] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1657, y=36, z=204}
+[08Dec2024 03:55:41.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> andamos probando la radio
+[08Dec2024 03:55:41.557] [Server thread/INFO] [simpleradio/]: Added receiver 90d5acf7-074c-4a44-b6d7-2e713770f4e5 to frequency 000.00
+[08Dec2024 03:55:41.587] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1657, y=36, z=227}
+[08Dec2024 03:55:43.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim
+[08Dec2024 03:55:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> seh
+[08Dec2024 03:55:52.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> maso
+[08Dec2024 03:56:01.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Spectator Mode]
+[08Dec2024 03:56:08.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Creative Mode]
+[08Dec2024 03:56:22.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> cuantos?
+[08Dec2024 03:56:30.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> -150
+[08Dec2024 03:56:31.372] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00
+[08Dec2024 03:56:31.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/21340, l='ServerLevel[world]', x=-1925.28, y=82.00, z=262.63] died, message: 'Villager suffocated in a wall'
+[08Dec2024 03:56:40.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> un monton
+[08Dec2024 03:56:47.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] va mal por la frecuencia, no usen una tan alta
+[08Dec2024 03:57:10.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> es que estamos a un chingo de bloques de distancia
+[08Dec2024 03:57:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> estamos a 2mil bloques
+[08Dec2024 03:57:23.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim
+[08Dec2024 03:57:27.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> dark esta hablando, lo escuchan?
+[08Dec2024 03:57:33.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> nao
+[08Dec2024 03:57:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> tiene otra frecuencia quiza
+[08Dec2024 03:57:42.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported OscarJapi to Kl0udyy]
+[08Dec2024 03:57:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> cual tienen?
+[08Dec2024 03:57:53.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> 007.13
+[08Dec2024 03:58:22.850] [Server thread/INFO] [simpleradio/]: Added receiver f0856fc1-d9ef-443d-8abb-442514af5b8d to frequency 000.00
+[08Dec2024 03:58:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> que lindooooo
+[08Dec2024 03:58:58.907] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:47855] logged in with entity id 23200 at (-285.476165525464, 85.0, -286.81813201228636)
+[08Dec2024 03:58:58.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
+[08Dec2024 03:59:01.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
+[08Dec2024 03:59:01.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii

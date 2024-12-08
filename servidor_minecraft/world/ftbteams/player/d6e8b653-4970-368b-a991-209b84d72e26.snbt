@@ -1,0 +1,17 @@
+{
+	id: "d6e8b653-4970-368b-a991-209b84d72e26"
+	type: "player"
+	player_name: "SoulO_Q"
+	ranks: {
+		d6e8b653-4970-368b-a991-209b84d72e26: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SoulO_Q"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B8FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
