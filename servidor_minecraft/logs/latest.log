@@ -1306,3 +1306,297 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 03:58:58.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
 [08Dec2024 03:59:01.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
 [08Dec2024 03:59:01.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
+[08Dec2024 03:59:11.524] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 03:59:12.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 03:59:12.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheMasterRoshiii (1567f6a1-8406-3181-bf29-77992b07c623) successfully connected to voice chat
+[08Dec2024 03:59:34.510] [Server thread/INFO] [simpleradio/]: Added receiver 538c4796-9426-47df-bb77-24aea9f63fb9 to frequency 000.00
+[08Dec2024 03:59:37.804] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 007.13
+[08Dec2024 03:59:39.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to Dark_inng]
+[08Dec2024 03:59:51.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ola dark
+[08Dec2024 03:59:53.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> skjsjks
+[08Dec2024 03:59:53.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> alo dark
+[08Dec2024 03:59:56.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> si
+[08Dec2024 03:59:59.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Timed out
+[08Dec2024 03:59:59.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
+[08Dec2024 03:59:59.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
+[08Dec2024 03:59:59.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim
+[08Dec2024 04:00:01.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> tenemos una radio aqui en el spawn
+[08Dec2024 04:00:02.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Doppelganger Creeper
+[08Dec2024 04:00:04.202] [Server thread/INFO] [simpleradio/]: Failed to add receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 007.13 as they already exist
+[08Dec2024 04:00:05.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Doppelganger Creeper
+[08Dec2024 04:00:05.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> sim sim
+[08Dec2024 04:00:09.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ya sabemos
+[08Dec2024 04:00:10.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> pues si
+[08Dec2024 04:00:13.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ya sabemos
+[08Dec2024 04:00:14.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ya sabemos
+[08Dec2024 04:00:14.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ya sabemos
+[08Dec2024 04:00:16.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> pinche wey
+[08Dec2024 04:00:16.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Zombie
+[08Dec2024 04:00:20.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> skjks
+[08Dec2024 04:00:27.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> y donde andas
+[08Dec2024 04:00:33.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> desde donde nos hablas
+[08Dec2024 04:00:34.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:44101] logged in with entity id 24261 at (-483.28316297926966, 70.4375, -342.3551154975176)
+[08Dec2024 04:00:34.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
+[08Dec2024 04:00:35.101] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
+[08Dec2024 04:00:35.102] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
+[08Dec2024 04:00:40.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> hacenos un podcast
+[08Dec2024 04:00:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to OscarJapi]
+[08Dec2024 04:00:43.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> hacenos un podcast
+[08Dec2024 04:00:43.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> hacenos un podcast
+[08Dec2024 04:00:44.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> chim
+[08Dec2024 04:00:46.361] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 04:00:46.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ay wey que ´paso
+[08Dec2024 04:00:47.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 04:00:47.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheMasterRoshiii (1567f6a1-8406-3181-bf29-77992b07c623) successfully connected to voice chat
+[08Dec2024 04:00:50.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> a
+[08Dec2024 04:01:06.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 04:01:07.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> estamos en -486 -344
+[08Dec2024 04:01:08.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <poopy8> y soul?
+[08Dec2024 04:01:16.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> estoy con dark
+[08Dec2024 04:01:18.601] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00
+[08Dec2024 04:01:31.449] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13 as they already exist
+[08Dec2024 04:01:31.800] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13 as they already exist
+[08Dec2024 04:01:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> no
+[08Dec2024 04:01:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> hablen pues
+[08Dec2024 04:01:37.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> hablen pues
+[08Dec2024 04:01:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> hablen pues
+[08Dec2024 04:01:37.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> hablen pues
+[08Dec2024 04:01:41.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> xd
+[08Dec2024 04:01:47.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-152, y=72, z=12}
+[08Dec2024 04:01:47.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-152, y=72, z=12}
+[08Dec2024 04:01:49.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> si
+[08Dec2024 04:01:51.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> a los 2
+[08Dec2024 04:01:59.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Enderman
+[08Dec2024 04:02:19.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> sdjksdjds
+[08Dec2024 04:02:19.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to OscarJapi]
+[08Dec2024 04:02:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> tu radio favorita
+[08Dec2024 04:02:31.710] [Server thread/INFO] [simpleradio/]: Added receiver 071a393d-5768-4178-930e-e68105d058f3 to frequency 000.00
+[08Dec2024 04:02:32.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> pongan musica en la radio
+[08Dec2024 04:02:39.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> que cante
+[08Dec2024 04:02:43.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> si
+[08Dec2024 04:02:45.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ola sebas
+[08Dec2024 04:02:54.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> xd
+[08Dec2024 04:02:55.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> x2
+[08Dec2024 04:02:57.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ksjksj
+[08Dec2024 04:03:03.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> si
+[08Dec2024 04:03:11.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> andan con el microfono ?
+[08Dec2024 04:03:11.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has made the advancement [Crops of the Wild]
+[08Dec2024 04:03:33.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> woaos
+[08Dec2024 04:03:38.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> ya canten
+[08Dec2024 04:03:39.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> el microfono no funciona solo el walkietalkie
+[08Dec2024 04:03:52.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> como the voice
+[08Dec2024 04:04:12.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed 46 entities]
+[08Dec2024 04:04:17.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed 43 entities]
+[08Dec2024 04:04:25.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed 70 entities]
+[08Dec2024 04:04:32.254] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13 as they already exist
+[08Dec2024 04:04:34.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> waos
+[08Dec2024 04:04:38.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-160, y=71, z=11}
+[08Dec2024 04:04:39.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=71, z=8}
+[08Dec2024 04:04:39.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-162, y=71, z=8}
+[08Dec2024 04:05:11.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-161, y=71, z=14}
+[08Dec2024 04:05:11.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-161, y=72, z=15}
+[08Dec2024 04:05:15.951] [Server thread/INFO] [simpleradio/]: Added receiver 3572ab2b-f8c7-49e3-ab1d-013008bf2f89 to frequency 007.13
+[08Dec2024 04:05:18.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[08Dec2024 04:05:18.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[08Dec2024 04:05:18.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[08Dec2024 04:05:18.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[08Dec2024 04:05:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|artifacts.anglersHat.luckOfTheSeaLevelBonus|artifacts.anglersHat.lureLevelBonus|artifacts.antidoteVessel.enabled|artifacts.antidoteVessel.maxEffectDuration|artifacts.aquaDashers.enabled|artifacts.bunnyHoppers.doCancelFallDamage|artifacts.bunnyHoppers.jumpBoostLevel|artifacts.charmOfSinking.enabled|artifacts.chorusTotem.cooldown|artifacts.chorusTotem.doConsumeOnUse|artifacts.chorusTotem.healthRestored|artifacts.chorusTotem.teleportationChance|artifacts.cloudInABottle.enabled|artifacts.cloudInABottle.sprintJumpHorizontalVelocity|artifacts.cloudInABottle.sprintJumpVerticalVelocity|artifacts.cowboyHat.speedLevel|artifacts.crossNecklace.bonusInvincibilityTicks|artifacts.crossNecklace.cooldown|artifacts.crystalHeart.healthBonus|artifacts.diggingClaws.digSpeedBonus|artifacts.diggingClaws.toolTier|artifacts.eternalSteak.cooldown|artifacts.eternalSteak.enabled|artifacts.everlastingBeef.cooldown|artifacts.everlastingBeef.enabled|artifacts.feralClaws.attackSpeedBonus|artifacts.fireGauntlet.fireDuration|artifacts.flamePendant.cooldown|artifacts.flamePendant.doGrantFireResistance|artifacts.flamePendant.fireDuration|artifacts.flamePendant.strikeChance|artifacts.flippers.swimSpeedBonus|artifacts.goldenHook.experienceBonus|artifacts.heliumFlamingo.flightDuration|artifacts.heliumFlamingo.rechargeDuration|artifacts.kittySlippers.enabled|artifacts.luckyScarf.fortuneBonus|artifacts.nightVisionGoggles.enabled|artifacts.nightVisionGoggles.strength|artifacts.noveltyDrinkingHat.drinkingDurationMultiplier|artifacts.noveltyDrinkingHat.eatingDurationMultiplier|artifacts.obsidianSkull.fireResistanceCooldown|artifacts.obsidianSkull.fireResistanceDuration|artifacts.onionRing.hasteDurationPerFoodPoint|artifacts.onionRing.hasteLevel|artifacts.panicNecklace.cooldown|artifacts.panicNecklace.speedDuration|artifacts.panicNecklace.speedLevel|artifacts.pickaxeHeater.enabled|artifacts.plasticDrinkingHat.drinkingDurationMultiplier|artifacts.plasticDrinkingHat.eatingDurationMultiplier|artifacts.pocketPiston.knockbackStrength|artifacts.powerGlove.attackDamageBonus|artifacts.rootedBoots.doGrowPlantsAfterEating|artifacts.rootedBoots.enabled|artifacts.rootedBoots.hungerReplenishingDuration|artifacts.runningShoes.doIncreaseStepHeight|artifacts.runningShoes.speedBonus|artifacts.scarfOfInvisibility.enabled|artifacts.shockPendant.cooldown|artifacts.shockPendant.doCancelLightningDamage|artifacts.shockPendant.strikeChance|artifacts.snorkel.enabled|artifacts.snorkel.isInfinite|artifacts.snorkel.waterBreathingDuration|artifacts.snowshoes.allowWalkingOnPowderSnow|artifacts.snowshoes.slipperinessReduction|artifacts.steadfastSpikes.enabled|artifacts.steadfastSpikes.knockbackResistance|artifacts.superstitiousHat.lootingLevelBonus|artifacts.thornPendant.cooldown|artifacts.thornPendant.maxDamage|artifacts.thornPendant.minDamage|artifacts.thornPendant.strikeChance|artifacts.umbrella.isGlider|artifacts.umbrella.isShield|artifacts.universalAttractor.enabled|artifacts.vampiricGlove.absorptionChance|artifacts.vampiricGlove.absorptionRatio|artifacts.vampiricGlove.maxHealingPerHit|artifacts.villagerHat.reputationBonus|artifacts.whoopeeCushion.fartChance|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[08Dec2024 04:05:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[08Dec2024 04:05:18.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[08Dec2024 04:05:18.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[08Dec2024 04:05:18.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[08Dec2024 04:05:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[08Dec2024 04:05:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[08Dec2024 04:05:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[08Dec2024 04:05:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[08Dec2024 04:05:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[08Dec2024 04:05:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[08Dec2024 04:05:18.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[08Dec2024 04:05:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[08Dec2024 04:05:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[08Dec2024 04:05:18.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[08Dec2024 04:05:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftblibrary (gamemode|rain|day|night|nbtedit|generate_loot_tables)
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbteams (party|server|msg|info|list|force-disband)
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ftbquests (editing_mode|locked|delete_empty_reward_tables|change_progress|export_reward_table_to_chest|import_reward_table_from_chest|generate_chapter_with_all_items_in_game|reload|block_rewards|open_book|clear_item_display_cache)
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /horde trigger
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /paraglider (query|set|give|take|bargain|reloadPlayerStates)
+[08Dec2024 04:05:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /emotes (play|stop|reload)
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sanity (set|add|config)
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sl_nbt (block|entity|item)
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sl_tp <entity> <dimension> <pos>
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /HMdayreset (<true>|<false>)
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[08Dec2024 04:05:18.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sleep_tight (sleep_cooldown|consecutive_nights|home_bed_nights|nightmare_chance)
+[08Dec2024 04:05:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /lootr [barrel|trapped_chest|chest|shulker|clear|cart|custom|open_as|open_as_uuid|id|refresh|decay|openers]
+[08Dec2024 04:05:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /doppelraid
+[08Dec2024 04:05:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
+[08Dec2024 04:05:18.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /voicechat [help|test|invite|join|leave]
+[08Dec2024 04:05:41.401] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00
+[08Dec2024 04:05:43.949] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00 as they already exist
+[08Dec2024 04:05:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> si los escuchamos weyes
+[08Dec2024 04:06:01.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Dec2024 04:06:01.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: config<--[HERE]
+[08Dec2024 04:06:06.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported Dark_inng to OscarJapi]
+[08Dec2024 04:06:31.802] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 000.00
+[08Dec2024 04:06:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 04:06:47.857] [Server thread/INFO] [simpleradio/]: Added receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13
+[08Dec2024 04:06:49.251] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13 as they already exist
+[08Dec2024 04:07:01.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to Dark_inng]
+[08Dec2024 04:07:09.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:09.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:09.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:12.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:13.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:13.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:13.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:13.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:13.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=72, z=10}
+[08Dec2024 04:07:13.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:13.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:07:13.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:07:14.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:14.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:07:14.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=71, z=11}
+[08Dec2024 04:07:14.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:07:14.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:14.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=72, z=12}
+[08Dec2024 04:07:14.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:07:14.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:14.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:07:15.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=72, z=12}
+[08Dec2024 04:07:15.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=72, z=12}
+[08Dec2024 04:07:15.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=72, z=12}
+[08Dec2024 04:07:15.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:07:15.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:15.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:15.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:15.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:16.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:16.303] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:16.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=10}
+[08Dec2024 04:07:16.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:07:16.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:16.898] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:17.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:17.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:17.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:17.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:18.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:18.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:18.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:18.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=11}
+[08Dec2024 04:07:22.526] [Server thread/WARN] [net.minecraft.util.profiling.ActiveProfiler/]: Something's taking too long! 'root.tick.levels.ServerLevel[world] minecraft:overworld.tick' took aprox 112.254566 ms
+[08Dec2024 04:07:22.526] [Server thread/WARN] [net.minecraft.util.profiling.ActiveProfiler/]: Something's taking too long! 'root.tick.levels.ServerLevel[world] minecraft:overworld' took aprox 113.079547 ms
+[08Dec2024 04:07:22.527] [Server thread/WARN] [net.minecraft.util.profiling.ActiveProfiler/]: Something's taking too long! 'root.tick.levels' took aprox 114.415971 ms
+[08Dec2024 04:07:22.531] [Server thread/WARN] [net.minecraft.util.profiling.ActiveProfiler/]: Something's taking too long! 'root.tick' took aprox 120.509608 ms
+[08Dec2024 04:07:22.535] [Server thread/WARN] [net.minecraft.util.profiling.ActiveProfiler/]: Something's taking too long! 'root' took aprox 124.958245 ms
+[08Dec2024 04:07:23.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:23.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:23.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:24.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:24.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:24.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:24.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:24.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:25.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:26.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=11}
+[08Dec2024 04:07:28.569] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling4707561420700015739/server/metrics/cpu.csv
+[08Dec2024 04:07:28.571] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling4707561420700015739/server/metrics/ticking.csv
+[08Dec2024 04:07:28.573] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling4707561420700015739/server/metrics/event-loops.csv
+[08Dec2024 04:07:28.575] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling4707561420700015739/server/metrics/jvm.csv
+[08Dec2024 04:07:28.577] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling4707561420700015739/server/metrics/mailboxes.csv
+[08Dec2024 04:07:29.315] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 0d8c517f-9a29-4930-8783-44de86dc8601
+[08Dec2024 04:07:29.491] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 7cfb9650-8fed-4769-ba73-8d02f3be6cc2
+[08Dec2024 04:07:29.538] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 222eae55-db61-4f3e-a972-5273c4590aa3
+[08Dec2024 04:07:29.582] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 26703902-c652-4237-803f-66f2cf899d5a
+[08Dec2024 04:07:29.935] [IO-Worker-46/INFO] [net.minecraft.util.FileZipper/]: Compressed to debug/profiling/2024-12-08_04_07_29-world-1_20_1.zip
+[08Dec2024 04:07:43.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Started 10 second performance profiling run (use '/perf stop' to stop early)
+[08Dec2024 04:07:53.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopped performance profiling after 10.05 second(s) and 201 tick(s) (20.01 tick(s) per second)
+[08Dec2024 04:07:53.987] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling11568338441176527587/server/metrics/cpu.csv
+[08Dec2024 04:07:53.989] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling11568338441176527587/server/metrics/ticking.csv
+[08Dec2024 04:07:53.992] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling11568338441176527587/server/metrics/event-loops.csv
+[08Dec2024 04:07:53.994] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling11568338441176527587/server/metrics/jvm.csv
+[08Dec2024 04:07:53.995] [IO-Worker-46/INFO] [net.minecraft.util.profiling.metrics.storage.MetricsPersister/]: Flushed metrics to /tmp/minecraft-profiling11568338441176527587/server/metrics/mailboxes.csv
+[08Dec2024 04:07:54.292] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID e1655e24-f3fe-467d-b941-50191a19a356
+[08Dec2024 04:07:54.355] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 2ba10d95-1def-4007-9081-cb5bd68ce284
+[08Dec2024 04:07:54.385] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 9319ee20-56b0-4e5c-9fda-2e809b63f8d3
+[08Dec2024 04:07:54.413] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID a83bd538-71e7-4fd5-94ab-b2c9856d6b47
+[08Dec2024 04:07:54.701] [IO-Worker-46/INFO] [net.minecraft.util.FileZipper/]: Compressed to debug/profiling/2024-12-08_04_07_54-world-1_20_1.zip
+[08Dec2024 04:07:54.711] [IO-Worker-46/INFO] [net.minecraft.server.MinecraftServer/]: Created debug report in 2024-12-08_04_07_54-world-1_20_1.zip
+[08Dec2024 04:08:16.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to OscarJapi]
+[08Dec2024 04:08:17.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> quien habla?
+[08Dec2024 04:08:24.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Stopped all sounds]
+[08Dec2024 04:08:29.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Stopped all 'voice' sounds]
+[08Dec2024 04:08:40.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 04:08:40.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Stopped all 'voice' sounds]
+[08Dec2024 04:08:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Stopped all 'ambient' sounds]
+[08Dec2024 04:08:51.861] [Server thread/INFO] [simpleradio/]: Failed to add receiver b8351296-2373-3bfa-8b11-362f024e7d98 to frequency 007.13 as they already exist
+[08Dec2024 04:08:52.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Removed every effect from TheMasterRoshiii]
+[08Dec2024 04:08:53.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Survival Mode]
+[08Dec2024 04:09:05.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Diamonds!]
+[08Dec2024 04:09:08.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Diamonds!]
+[08Dec2024 04:09:19.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
