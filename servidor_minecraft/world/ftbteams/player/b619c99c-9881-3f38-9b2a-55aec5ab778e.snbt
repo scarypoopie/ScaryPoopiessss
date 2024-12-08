@@ -1,0 +1,17 @@
+{
+	id: "b619c99c-9881-3f38-9b2a-55aec5ab778e"
+	type: "player"
+	player_name: "dzbas176"
+	ranks: {
+		b619c99c-9881-3f38-9b2a-55aec5ab778e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "dzbas176"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9EFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

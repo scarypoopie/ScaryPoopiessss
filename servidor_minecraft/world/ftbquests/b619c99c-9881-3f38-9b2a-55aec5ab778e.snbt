@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b619c99c98813f389b2a55aec5ab778e"
+	name: "dzbas176#b619c99c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

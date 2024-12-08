@@ -1,2385 +1,853 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-12-03 23:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-04 20:11:44 +0000",
-      "minecraft:frozen_river": "2024-12-04 19:37:46 +0000",
-      "minecraft:windswept_hills": "2024-12-04 19:39:19 +0000",
-      "minecraft:wooded_badlands": "2024-12-03 23:26:48 +0000",
-      "minecraft:bamboo_jungle": "2024-12-03 23:34:25 +0000",
-      "minecraft:beach": "2024-12-03 23:52:42 +0000",
-      "minecraft:sparse_jungle": "2024-12-03 23:35:05 +0000",
-      "minecraft:river": "2024-12-03 23:33:20 +0000",
-      "minecraft:snowy_plains": "2024-12-04 19:38:20 +0000",
-      "minecraft:dripstone_caves": "2024-12-04 20:11:36 +0000",
-      "minecraft:snowy_taiga": "2024-12-04 19:38:19 +0000",
-      "minecraft:forest": "2024-12-03 23:26:44 +0000",
-      "minecraft:frozen_ocean": "2024-12-04 19:37:12 +0000",
-      "minecraft:desert": "2024-12-04 19:34:38 +0000",
-      "minecraft:windswept_forest": "2024-12-04 19:39:40 +0000",
-      "minecraft:jungle": "2024-12-03 23:26:46 +0000",
-      "minecraft:snowy_beach": "2024-12-04 19:37:36 +0000",
-      "minecraft:savanna": "2024-12-03 23:21:48 +0000",
-      "minecraft:plains": "2024-12-03 23:20:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-12-03 23:24:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-03 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2024-12-04 19:59:52 +0000",
-      "minecraft:spider": "2024-12-04 19:08:02 +0000",
-      "minecraft:creeper": "2024-12-04 19:59:00 +0000",
-      "minecraft:phantom": "2024-12-03 23:24:37 +0000",
-      "minecraft:witch": "2024-12-04 19:59:12 +0000",
-      "minecraft:enderman": "2024-12-04 20:12:52 +0000",
-      "minecraft:zombie": "2024-12-04 19:49:17 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:phantom": "2024-12-03 23:24:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2024-12-03 23:24:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "golden_apple": "2024-12-03 23:25:24 +0000",
-      "enchanted_golden_apple": "2024-12-04 19:46:47 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-03 23:25:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2024-12-03 23:26:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2024-12-03 23:26:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2024-12-03 23:26:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2024-12-03 23:26:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-03 23:35:41 +0000"
+      "unlock_right_away": "2024-12-06 00:46:02 +0000"
     },
     "done": true
   },
   "adorabuild_structures:overworld_structures": {
     "criteria": {
-      "always": "2024-12-03 23:50:49 +0000"
+      "always": "2024-12-06 00:46:02 +0000"
     },
     "done": true
   },
   "lootr:root": {
     "criteria": {
-      "always_true": "2024-12-03 23:50:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-03 23:50:49 +0000"
+      "always_true": "2024-12-06 00:46:02 +0000"
     },
     "done": true
   },
   "the_darkness_will_find_you:the_darkness_will_find_you": {
     "criteria": {
-      "always": "2024-12-03 23:50:49 +0000"
-    },
-    "done": true
-  },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2024-12-03 23:53:04 +0000"
+      "always": "2024-12-06 00:46:02 +0000"
     },
     "done": true
   },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2024-12-03 23:53:04 +0000"
+      "opened_barrel": "2024-12-06 00:46:02 +0000",
+      "opened_chest": "2024-12-06 00:57:18 +0000"
     },
     "done": false
-  },
-  "valhelsia_structures:recipes/building_blocks/light_blue_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_leggings": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_chestplate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "simpleradio:recipes/building_blocks/antenna": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "simpleradio:recipes/tools/walkie_talkie": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/black_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cooking_pot": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "simpleradio:recipes/building_blocks/radiosmither": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/gray_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_pickaxe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/blue_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/hopper": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/purple_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/magenta_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/pink_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/light_gray_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "simpleradio:recipes/misc/transmitting_module": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "simpleradio:recipes/tools/spuddie_talkie": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/iron_knife": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "simpleradio:recipes/misc/speaker_module": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
-    "criteria": {
-      "has_ingots/iron": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-03 23:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_horse_armor": "2024-12-03 23:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_horse_armor": "2024-12-03 23:53:06 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2024-12-03 23:53:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2024-12-04 00:00:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-04 00:00:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2024-12-04 00:00:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-04 00:00:39 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:nether_structures": {
-    "criteria": {
-      "example": "2024-12-04 00:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-04 00:00:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2024-12-04 00:00:41 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2024-12-04 00:01:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-12-04 00:04:05 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-04 00:04:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2024-12-04 18:53:11 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_oak_table": {
-    "criteria": {
-      "has_oak_table": "2024-12-04 18:58:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2024-12-04 18:59:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2024-12-04 19:00:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2024-12-04 19:00:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2024-12-04 19:00:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-04 19:00:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-04 19:00:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg": {
-    "criteria": {
-      "fried_egg": "2024-12-04 19:00:11 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2024-12-04 19:03:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-12-04 19:03:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-04 19:03:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2024-12-04 19:05:20 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/acacia_post": {
-    "criteria": {
-      "has_item": "2024-12-04 19:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2024-12-04 19:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/acacia_desk": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/acacia_table": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_acacia_chair": {
-    "criteria": {
-      "has_acacia_planks": "2024-12-04 19:05:22 +0000"
-    },
-    "done": true
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2024-12-04 19:05:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-04 19:05:23 +0000"
-    },
-    "done": true
   },
   "watching:main/root": {
     "criteria": {
-      "requirement": "2024-12-04 19:07:24 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
-    "criteria": {
-      "killed_by": "2024-12-04 19:10:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2024-12-04 19:12:05 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/cut_birch_post": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/bundled_birch_posts": {
-    "criteria": {
-      "has_birch_post": "2024-12-04 19:14:21 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/yellow_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/lime_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/light_blue_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/blue_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/green_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/red_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/pink_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/brown_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/magenta_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/orange_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/light_gray_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/black_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/gray_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/cyan_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/purple_sleeping_bag_from_white_sleeping_bag": {
-    "criteria": {
-      "has_item": "2024-12-04 19:14:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-04 19:14:51 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/bone_pile_block_from_bone_piles": {
-    "criteria": {
-      "has_bone_pile": "2024-12-04 19:15:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_planks": {
-    "criteria": {
-      "has_log": "2024-12-04 19:16:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_wood": {
-    "criteria": {
-      "has_lapidified_jungle_log": "2024-12-04 19:16:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/lapidified_jungle_post": {
-    "criteria": {
-      "has_item": "2024-12-04 19:16:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/stripped_lapidified_jungle_post": {
-    "criteria": {
-      "has_item": "2024-12-04 19:16:14 +0000"
-    },
-    "done": true
-  },
-  "simpleradio:recipes/tools/transceiver": {
-    "criteria": {
-      "has_transmitting_module": "2024-12-04 19:17:31 +0000"
-    },
-    "done": true
-  },
-  "the_darkness_will_find_you:wardens_nightmare": {
-    "criteria": {
-      "the_darkness_will_find_you:craft_cursed_apple": "2024-12-04 19:25:16 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-12-04 19:25:43 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2024-12-04 19:25:45 +0000"
+      "requirement": "2024-12-06 00:46:02 +0000"
     },
     "done": true
   },
   "watching:main/survive/3_days": {
     "criteria": {
-      "requirement": "2024-12-04 19:25:59 +0000"
+      "requirement": "2024-12-06 00:46:02 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/kill_graveyard_mob": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "revenant": "2024-12-04 19:26:27 +0000"
+      "minecraft:birch_forest": "2024-12-06 00:47:44 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 03:29:44 +0000",
+      "minecraft:beach": "2024-12-06 01:00:33 +0000",
+      "minecraft:dark_forest": "2024-12-06 00:52:29 +0000",
+      "minecraft:mangrove_swamp": "2024-12-06 03:32:09 +0000",
+      "minecraft:sparse_jungle": "2024-12-06 01:02:04 +0000",
+      "minecraft:river": "2024-12-06 00:46:27 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-06 00:56:38 +0000",
+      "minecraft:stony_shore": "2024-12-06 00:56:12 +0000",
+      "minecraft:dripstone_caves": "2024-12-06 01:54:18 +0000",
+      "minecraft:grove": "2024-12-06 03:41:56 +0000",
+      "minecraft:swamp": "2024-12-06 03:32:08 +0000",
+      "minecraft:forest": "2024-12-06 00:46:04 +0000",
+      "minecraft:jungle": "2024-12-06 00:56:41 +0000",
+      "minecraft:ocean": "2024-12-06 00:56:36 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-06 00:47:42 +0000",
+      "minecraft:meadow": "2024-12-06 00:56:02 +0000",
+      "minecraft:savanna": "2024-12-06 01:00:44 +0000",
+      "minecraft:plains": "2024-12-06 00:46:03 +0000"
     },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/divine": {
-    "criteria": {
-      "has_item": "2024-12-04 19:28:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2024-12-04 19:30:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2024-12-04 19:30:59 +0000"
-    },
-    "done": true
-  },
-  "the_darkness_will_find_you:there_is_no_way_back": {
-    "criteria": {
-      "the_darkness_will_find_you:attacked_by_sculk_mobs": "2024-12-04 19:31:37 +0000",
-      "the_darkness_will_find_you:step_on_sculk_block": "2024-12-04 19:31:37 +0000"
-    },
-    "done": true
+    "done": false
   },
   "watching:main/didnt_notice_herobrine": {
     "criteria": {
-      "requirement": "2024-12-04 19:32:33 +0000"
+      "requirement": "2024-12-06 00:47:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dog_food": {
+  "watching:main/found_herobrine_structure": {
     "criteria": {
-      "has_any_ingredient": "2024-12-04 19:49:17 +0000"
+      "requirement": "2024-12-06 00:49:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
+      "killed_something": "2024-12-06 00:49:27 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
+  "farmersdelight:main/root": {
     "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ghostly_pickaxe": {
-    "criteria": {
-      "ghostly_pickaxe": "2024-12-04 20:16:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/cut_oak_post": {
-    "criteria": {
-      "has_item": "2024-12-04 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "the_darkness_will_find_you:apocalyptic_wasteland": {
-    "criteria": {
-      "the_darkness_will_find_you:trigger_apocalyptic_wasteland_event": "2024-12-04 19:51:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana_slug": {
-    "criteria": {
-      "killed": "2024-12-04 20:10:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/oak_table": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-04 19:47:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
+      "seeds": "2024-12-06 00:49:34 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_rail": "2024-12-04 20:16:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-04 19:47:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/building_blocks/bundled_oak_posts": {
-    "criteria": {
-      "has_oak_post": "2024-12-04 19:45:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2024-12-04 19:46:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-04 19:47:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
+      "has_rail": "2024-12-06 00:49:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_rail": "2024-12-04 20:16:37 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/oak_desk": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-04 19:47:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-04 19:50:23 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-04 19:47:52 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2024-12-04 19:45:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
-    "criteria": {
-      "has_rotten_flesh": "2024-12-04 19:49:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:tireless_legs": {
-    "criteria": {
-      "prison_large_1": "2024-12-04 19:40:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-04 19:57:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2024-12-04 19:59:01 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2024-12-04 20:11:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-04 19:47:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-12-04 19:59:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2024-12-04 19:57:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_gravel": "2024-12-04 19:49:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2024-12-04 19:44:56 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_oak_chair": {
-    "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
+      "has_rail": "2024-12-06 00:49:37 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_rail": "2024-12-04 20:16:37 +0000"
+      "has_rail": "2024-12-06 00:49:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_enchanted_golden_apple": "2024-12-04 19:46:42 +0000"
+      "has_gravel": "2024-12-06 00:56:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
-      "has_deepslate_bricks": "2024-12-04 20:18:41 +0000"
+      "has_gravel": "2024-12-06 00:56:16 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
-      "has_oak_planks": "2024-12-04 20:16:18 +0000"
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-12-06 00:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-06 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-06 00:57:18 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-06 00:57:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stomp_leafcutter_anthill": {
+    "criteria": {
+      "ex": "2024-12-06 01:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-06 01:03:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-12-06 01:03:21 +0000"
+    },
+    "done": true
+  },
+  "watching:main/found_logless_tree": {
+    "criteria": {
+      "requirement": "2024-12-06 01:07:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-06 01:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-06 01:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-06 01:11:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-06 01:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-06 01:16:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2024-12-06 01:19:04 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2024-12-06 01:20:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-06 01:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-06 01:20:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-06 01:20:53 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "birch_house_medium_2": "2024-12-06 01:39:01 +0000",
+      "oak_house_large_1": "2024-12-06 01:47:22 +0000",
+      "oak_house_small_2": "2024-12-06 02:07:50 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/dimensional_carver": {
+    "criteria": {
+      "dimensional_carver": "2024-12-06 01:51:23 +0000"
+    },
+    "done": true
+  },
+  "watching:main/survive/10_days": {
+    "criteria": {
+      "requirement": "2024-12-06 01:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-06 01:54:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stink_ray": {
+    "criteria": {
+      "sopa_de_macaco": "2024-12-06 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage_rocket": {
+    "criteria": {
+      "enderiophage_rocket": "2024-12-06 01:57:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mysterious_worm": {
+    "criteria": {
+      "mysterious_worm": "2024-12-06 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/hemolymph_blaster": {
+    "criteria": {
+      "hemolymph_blaster": "2024-12-06 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2024-12-06 01:59:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-06 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-06 01:59:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2024-12-06 01:59:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_helmet": {
+    "criteria": {
+      "froststalker_helmet": "2024-12-06 02:00:04 +0000"
+    },
+    "done": true
+  },
+  "watching:main/spotted_herobrine": {
+    "criteria": {
+      "requirement": "2024-12-06 02:00:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-06 03:06:41 +0000",
+      "minecraft:creeper": "2024-12-06 03:14:19 +0000",
+      "minecraft:zombie": "2024-12-06 02:07:45 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-06 02:07:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-06 02:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-06 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-06 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-06 02:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-06 02:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-06 02:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-06 02:44:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2024-12-06 02:44:19 +0000",
+      "bread": "2024-12-06 03:49:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-06 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "the_darkness_will_find_you:infestation_fighter": {
+    "criteria": {
+      "the_darkness_will_find_you:sculk_pig": "2024-12-06 03:24:21 +0000"
+    },
+    "done": false
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-06 03:34:19 +0000"
+    },
+    "done": true
+  },
+  "paraglider:all_vessels": {
+    "criteria": {
+      "code_triggered": "2024-12-06 03:34:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_desk_drawer": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2024-12-06 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-06 03:43:53 +0000"
+    },
+    "done": true
+  },
+  "watching:main/found_leafless_grove": {
+    "criteria": {
+      "found_grove": "2024-12-06 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_warped_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_mangrove_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_birch_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_spruce_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_oak_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_cherry_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_crimson_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_dark_oak_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_jungle_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_acacia_table": {
+    "criteria": {
+      "has_white_carpet": "2024-12-06 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2024-12-06 03:54:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2024-12-06 03:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-06 03:57:09 +0000"
     },
     "done": true
   },

@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "fcc7df75-d2cf-3ae1-b937-548636c6e40d",
+    "name": "oscarjapo",
+    "created": "2024-12-06 01:07:54 +0000",
+    "source": "OscarJapi",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

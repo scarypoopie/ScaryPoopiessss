@@ -1,0 +1,117 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1733619112018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619115077 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619118138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733619133235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619136295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619139355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619142412 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619145483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619148542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619151614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619154674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619157760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733619172853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619175929 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619178996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1733619194088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1733619197147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+society-mem.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+h-offers.gl.at.ply.gg:2946 => 127.0.0.1:2946 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)

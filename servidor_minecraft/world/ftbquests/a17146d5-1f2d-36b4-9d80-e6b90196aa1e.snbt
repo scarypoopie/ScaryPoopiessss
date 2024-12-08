@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a17146d51f2d36b49d80e6b90196aa1e"
+	name: "Berceranz#a17146d5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
