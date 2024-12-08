@@ -2003,3 +2003,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 05:18:57.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
 [08Dec2024 05:18:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
 [08Dec2024 05:18:57.148] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 05:21:26.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Rotting Stalker
+[08Dec2024 05:21:37.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:33069] logged in with entity id 50823 at (-200.6984779023629, 16.0, 33.595716435686136)
+[08Dec2024 05:21:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[08Dec2024 05:21:51.462] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[08Dec2024 05:21:51.463] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:22:44.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy fell from a high place
+[08Dec2024 05:22:51.944] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dzbas176 lost connection: Disconnected
+[08Dec2024 05:22:51.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 left the game
+[08Dec2024 05:22:51.945] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client dzbas176
+[08Dec2024 05:22:53.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to poopy8]
+[08Dec2024 05:22:59.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:23:00.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:23:00.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 05:27:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] van a seguir un rato mas? digo horas
