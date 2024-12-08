@@ -1834,3 +1834,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:38:55.838] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
 [08Dec2024 04:39:00.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
 [08Dec2024 04:39:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:39:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Flexible Schedule]
+[08Dec2024 04:40:02.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Barrel Booty]
+[08Dec2024 04:40:18.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q fell from a high place
+[08Dec2024 04:40:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Barrel Booty]
+[08Dec2024 04:40:32.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Spectator Mode]
+[08Dec2024 04:40:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Creative Mode]
+[08Dec2024 04:42:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was shot by Skeleton
+[08Dec2024 04:42:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to Kl0udyy]
+[08Dec2024 04:43:40.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como van?
+[08Dec2024 04:43:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Chest Slayer]
+[08Dec2024 04:43:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:43:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Zombie
+[08Dec2024 04:44:31.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Suit Up]
+[08Dec2024 04:44:43.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 04:44:43.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 04:44:43.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 04:45:31.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to SoulO_Q]
+[08Dec2024 04:45:33.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 04:45:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> tramposos
+[08Dec2024 04:45:53.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dzbas176> D:
+[08Dec2024 04:46:06.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> chim
+[08Dec2024 04:47:48.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported dzbas176 to dzbas176]
+[08Dec2024 04:47:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported dzbas176 to Dark_inng]
+[08Dec2024 04:49:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement ['X' Marks the Spot]
+[08Dec2024 04:49:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Gave 1 [Coal] to dzbas176]

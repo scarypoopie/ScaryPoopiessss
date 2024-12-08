@@ -8750,3 +8750,139 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:39:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Isn't It Iron Pick]
 [08Dec2024 04:39:25.394] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kl0udyy: {disabled=true, disconnected=false, uuid=b8351296-2373-3bfa-8b11-362f024e7d98, name=Kl0udyy, group=null}
 [08Dec2024 04:39:26.230] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Kl0udyy: {disabled=false, disconnected=false, uuid=b8351296-2373-3bfa-8b11-362f024e7d98, name=Kl0udyy, group=null}
+[08Dec2024 04:39:54.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Flexible Schedule]
+[08Dec2024 04:40:02.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Barrel Booty]
+[08Dec2024 04:40:05.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 04:40:05.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 04:40:18.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q fell from a high place
+[08Dec2024 04:40:31.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 has made the advancement [Barrel Booty]
+[08Dec2024 04:40:32.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Spectator Mode]
+[08Dec2024 04:40:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set own game mode to Creative Mode]
+[08Dec2024 04:42:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was shot by Skeleton
+[08Dec2024 04:42:11.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to Kl0udyy]
+[08Dec2024 04:43:40.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] como van?
+[08Dec2024 04:43:45.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Chest Slayer]
+[08Dec2024 04:43:54.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [Isn't It Iron Pick]
+[08Dec2024 04:43:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was slain by Zombie
+[08Dec2024 04:44:31.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Suit Up]
+[08Dec2024 04:44:43.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 04:44:43.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 04:44:43.245] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of poopy8
+[08Dec2024 04:44:43.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 04:44:45.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:45.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:45.948] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:45.968] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:45.988] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.009] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.022] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.042] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.062] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.083] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.103] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.123] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.143] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.163] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.184] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.204] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.224] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.244] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.264] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.285] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.305] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.325] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.345] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.359] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.407] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.426] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.446] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:46.460] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.127] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.127] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.147] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.161] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.181] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.201] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.221] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.241] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.262] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.282] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.302] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.323] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.343] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.363] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.383] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.403] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.423] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.443] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.465] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.484] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.504] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.524] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.545] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.565] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.585] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.605] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.625] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.646] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.659] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.686] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.706] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.726] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.747] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.767] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.780] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.800] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.821] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.841] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.861] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.881] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.902] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.929] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.943] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.962] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:47.982] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:48.003] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:48.023] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:48.043] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:48.063] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.445] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.465] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.486] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.506] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.526] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.546] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.566] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.587] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.627] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.647] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.661] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.688] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.708] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.728] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.748] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.769] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.789] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.802] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.822] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.849] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.876] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.896] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.917] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.938] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.957] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:44:51.971] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb does not have a secret
+[08Dec2024 04:45:05.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 04:45:05.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 04:45:31.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to SoulO_Q]
+[08Dec2024 04:45:33.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 04:45:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> tramposos
+[08Dec2024 04:45:53.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dzbas176> D:
+[08Dec2024 04:46:06.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> chim
+[08Dec2024 04:47:48.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported dzbas176 to dzbas176]
+[08Dec2024 04:47:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported dzbas176 to Dark_inng]
+[08Dec2024 04:49:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement ['X' Marks the Spot]
+[08Dec2024 04:49:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Gave 1 [Coal] to dzbas176]
