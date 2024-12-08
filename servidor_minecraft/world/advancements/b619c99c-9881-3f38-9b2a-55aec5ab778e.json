@@ -27,7 +27,9 @@
     "criteria": {
       "minecraft:taiga": "2024-12-08 03:11:53 +0000",
       "minecraft:birch_forest": "2024-12-08 04:31:32 +0000",
-      "minecraft:beach": "2024-12-08 03:12:14 +0000"
+      "minecraft:beach": "2024-12-08 03:12:14 +0000",
+      "minecraft:river": "2024-12-08 04:47:57 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-08 04:53:47 +0000"
     },
     "done": false
   },
@@ -540,6 +542,7 @@
       "baked_potato": "2024-12-08 03:44:07 +0000",
       "spider_eye": "2024-12-08 04:26:25 +0000",
       "bread": "2024-12-08 03:20:45 +0000",
+      "cookie": "2024-12-08 04:50:10 +0000",
       "rotten_flesh": "2024-12-08 04:20:22 +0000"
     },
     "done": false
@@ -1039,6 +1042,12 @@
     },
     "done": true
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-12-08 04:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:37:36 +0000"
@@ -1066,6 +1075,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-08 04:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-08 04:52:40 +0000"
     },
     "done": true
   },
@@ -1587,7 +1602,8 @@
   },
   "lootr:social": {
     "criteria": {
-      "opened_barrel": "2024-12-08 04:40:02 +0000"
+      "opened_barrel": "2024-12-08 04:40:02 +0000",
+      "opened_chest": "2024-12-08 04:49:22 +0000"
     },
     "done": false
   },

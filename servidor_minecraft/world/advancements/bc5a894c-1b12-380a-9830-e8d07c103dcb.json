@@ -1310,6 +1310,18 @@
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-08 04:40:31 +0000"
+    },
+    "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-08 04:40:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-08 04:40:37 +0000"
@@ -1331,18 +1343,6 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-08 04:40:37 +0000"
-    },
-    "done": true
-  },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2024-12-08 04:40:31 +0000"
-    },
-    "done": false
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2024-12-08 04:40:31 +0000"
     },
     "done": true
   },

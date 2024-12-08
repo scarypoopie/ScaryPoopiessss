@@ -1859,3 +1859,54 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:47:53.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported dzbas176 to Dark_inng]
 [08Dec2024 04:49:22.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement ['X' Marks the Spot]
 [08Dec2024 04:49:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Gave 1 [Coal] to dzbas176]
+[08Dec2024 04:51:40.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ola?
+[08Dec2024 04:51:43.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> ola
+[08Dec2024 04:51:44.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> ola
+[08Dec2024 04:51:46.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dzbas176> alo
+[08Dec2024 04:51:47.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dark_inng> ola
+[08Dec2024 04:52:40.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Not Today, Thank You]
+[08Dec2024 04:53:00.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set Kl0udyy's sanity to 100.0]
+[08Dec2024 04:53:16.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy tried to swim in lava
+[08Dec2024 04:53:20.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dzbas176> XDDDD
+[08Dec2024 04:53:28.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to dzbas176]
+[08Dec2024 04:53:30.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was shot by Skeleton
+[08Dec2024 04:54:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Set Dark_inng's sanity to 100.0]
+[08Dec2024 04:54:14.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Teleported SoulO_Q to Dark_inng]
+[08Dec2024 04:54:25.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b8351296-2373-3bfa-8b11-362f024e7d98 timed out
+[08Dec2024 04:54:25.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Kl0udyy
+[08Dec2024 04:54:25.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
+[08Dec2024 04:54:31.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kl0udyy lost connection: Timed out
+[08Dec2024 04:54:31.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy left the game
+[08Dec2024 04:54:31.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kl0udyy
+[08Dec2024 04:54:41.500] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kl0udyy[/127.213.27.136:44451] logged in with entity id 40922 at (-489.515864559621, -21.0, -103.48890938379122)
+[08Dec2024 04:54:41.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy joined the game
+[08Dec2024 04:54:41.763] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kl0udyy (18)
+[08Dec2024 04:54:41.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kl0udyy
+[08Dec2024 04:54:47.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b8351296-2373-3bfa-8b11-362f024e7d98
+[08Dec2024 04:54:47.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b8351296-2373-3bfa-8b11-362f024e7d98
+[08Dec2024 04:54:47.971] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kl0udyy (b8351296-2373-3bfa-8b11-362f024e7d98) successfully connected to voice chat
+[08Dec2024 04:54:57.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Summoned new Goblin Trader]
+[08Dec2024 04:55:46.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@553c2b82[id=<null>,name=poopy8,properties={},legacy=false] (/127.19.66.44:32893): Took too long to log in
+[08Dec2024 04:55:46.643] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@553c2b82[id=<null>,name=poopy8,properties={},legacy=false] (/127.19.66.44:32893) lost connection: Took too long to log in
+[08Dec2024 04:55:46.692] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Dec2024 04:56:28.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was slain by Zombie
+[08Dec2024 04:56:36.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to SoulO_Q]
+[08Dec2024 04:56:46.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set Kl0udyy's sanity to 100.0]
+[08Dec2024 04:56:53.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:48131] logged in with entity id 41469 at (-205.48700448267942, 0.0, -3.5383883087754184)
+[08Dec2024 04:56:53.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[08Dec2024 04:56:56.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Sneaking Terror
+[08Dec2024 04:57:08.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported 5 entities to Kl0udyy]
+[08Dec2024 04:57:23.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 04:57:23.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 04:57:23.694] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 04:57:59.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng has made the advancement [The Cutest Predator]
+[08Dec2024 04:58:44.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Suit Up]
+[08Dec2024 04:58:52.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Dark_inng
+[08Dec2024 04:59:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to Dark_inng]
+[08Dec2024 04:59:25.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 52 horas usadas (teniamos 40)
+[08Dec2024 04:59:53.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was killed by Witch using magic
+[08Dec2024 04:59:53.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Spider
+[08Dec2024 04:59:58.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:55793] logged in with entity id 42629 at (-490.6241313535904, -21.0, -107.03307533037393)
+[08Dec2024 04:59:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[08Dec2024 04:59:59.168] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[08Dec2024 04:59:59.169] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
