@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "Kl0udyy"
 		"ftbteams:description": ""
-		"ftbteams:color": "#59FFA7"
+		"ftbteams:color": "#59F7FF"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}

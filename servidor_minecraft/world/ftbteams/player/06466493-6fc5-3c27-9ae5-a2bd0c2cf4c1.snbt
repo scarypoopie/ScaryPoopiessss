@@ -1,0 +1,17 @@
+{
+	id: "06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1"
+	type: "player"
+	player_name: "Dark_inng"
+	ranks: {
+		06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dark_inng"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7859FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
