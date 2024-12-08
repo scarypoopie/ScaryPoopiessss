@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "064664936fc53c279ae5a2bd0c2cf4c1"
+	name: "Dark_inng#06466493"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

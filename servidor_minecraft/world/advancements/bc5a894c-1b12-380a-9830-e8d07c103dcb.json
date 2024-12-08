@@ -29,5 +29,47 @@
     },
     "done": false
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-08 03:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-08 03:28:36 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-08 03:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 03:32:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/spruce_post": {
+    "criteria": {
+      "has_item": "2024-12-08 03:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-08 03:32:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-08 03:32:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

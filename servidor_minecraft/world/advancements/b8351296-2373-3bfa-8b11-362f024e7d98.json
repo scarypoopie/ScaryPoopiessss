@@ -1,9 +1,46 @@
 {
-  "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_oak_planks": "2024-12-08 03:23:24 +0000"
+      "unlock_right_away": "2024-12-08 03:11:54 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2024-12-08 03:11:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-12-08 03:11:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-08 03:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-08 03:11:55 +0000",
+      "minecraft:birch_forest": "2024-12-08 03:15:15 +0000",
+      "minecraft:beach": "2024-12-08 03:14:59 +0000",
+      "minecraft:river": "2024-12-08 03:16:40 +0000",
+      "minecraft:forest": "2024-12-08 03:21:09 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-08 03:17:03 +0000",
+      "minecraft:meadow": "2024-12-08 03:21:17 +0000"
+    },
+    "done": false
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "prison_large_1": "2024-12-08 03:17:58 +0000",
+      "oak_house_medium_1": "2024-12-08 03:23:16 +0000"
+    },
+    "done": false
   },
   "lootr:1chest": {
     "criteria": {
@@ -11,15 +48,71 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-12-08 03:23:19 +0000",
+      "opened_chest": "2024-12-08 03:18:07 +0000"
+    },
+    "done": false
+  },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2024-12-08 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_iron_bars": "2024-12-08 03:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:vindicator": "2024-12-08 03:18:19 +0000",
+      "minecraft:zombie": "2024-12-08 03:23:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-08 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:vindicator": "2024-12-08 03:18:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-12-08 03:18:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/divine": {
+    "criteria": {
+      "has_item": "2024-12-08 03:18:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-12-08 03:23:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-08 03:23:24 +0000"
     },
     "done": true
   },
-  "valhelsia_structures:recipes/decorations/soul_brazier": {
+  "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
     "criteria": {
-      "has_iron_bars": "2024-12-08 03:18:17 +0000"
+      "has_oak_planks": "2024-12-08 03:23:24 +0000"
     },
     "done": true
   },
@@ -65,27 +158,9 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/divine": {
-    "criteria": {
-      "has_item": "2024-12-08 03:18:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2024-12-08 03:23:25 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-08 03:23:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-08 03:11:54 +0000"
     },
     "done": true
   },
@@ -100,13 +175,6 @@
       "has_planks": "2024-12-08 03:23:24 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:vindicator": "2024-12-08 03:18:19 +0000",
-      "minecraft:zombie": "2024-12-08 03:23:53 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -129,18 +197,6 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-08 03:23:24 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:overworld_structures": {
-    "criteria": {
-      "always": "2024-12-08 03:11:54 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2024-12-08 03:11:54 +0000"
     },
     "done": true
   },
@@ -198,19 +254,6 @@
     },
     "done": true
   },
-  "lootr:social": {
-    "criteria": {
-      "opened_barrel": "2024-12-08 03:23:19 +0000",
-      "opened_chest": "2024-12-08 03:18:07 +0000"
-    },
-    "done": false
-  },
-  "valhelsia_structures:recipes/decorations/brazier": {
-    "criteria": {
-      "has_iron_bars": "2024-12-08 03:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-08 03:23:24 +0000"
@@ -250,24 +293,6 @@
   "valhelsia_furniture:recipes/decorations/white_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-08 03:23:24 +0000"
-    },
-    "done": true
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2024-12-08 03:18:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-12-08 03:11:54 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2024-12-08 03:23:19 +0000"
     },
     "done": true
   },
@@ -313,12 +338,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-08 03:18:19 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-08 03:23:24 +0000"
@@ -330,31 +349,6 @@
       "has_oak_planks": "2024-12-08 03:23:24 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:vindicator": "2024-12-08 03:18:19 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:tireless_legs": {
-    "criteria": {
-      "prison_large_1": "2024-12-08 03:17:58 +0000",
-      "oak_house_medium_1": "2024-12-08 03:23:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-08 03:11:55 +0000",
-      "minecraft:birch_forest": "2024-12-08 03:15:15 +0000",
-      "minecraft:beach": "2024-12-08 03:14:59 +0000",
-      "minecraft:river": "2024-12-08 03:16:40 +0000",
-      "minecraft:forest": "2024-12-08 03:21:09 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-08 03:17:03 +0000",
-      "minecraft:meadow": "2024-12-08 03:21:17 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -395,6 +389,12 @@
   "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-08 03:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2024-12-08 03:23:25 +0000"
     },
     "done": true
   },
