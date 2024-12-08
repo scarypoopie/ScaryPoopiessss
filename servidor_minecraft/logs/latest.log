@@ -1600,3 +1600,118 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:09:05.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi has made the advancement [Diamonds!]
 [08Dec2024 04:09:08.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Diamonds!]
 [08Dec2024 04:09:19.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
+[08Dec2024 04:09:30.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Cover Me with Diamonds]
+[08Dec2024 04:09:37.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Added 50.0 sanity to SoulO_Q]
+[08Dec2024 04:09:37.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> pa cuando el reporte del clima en la radio
+[08Dec2024 04:09:42.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Added 50.0 sanity to SoulO_Q]
+[08Dec2024 04:10:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Killed 5 entities]
+[08Dec2024 04:10:27.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> afk
+[08Dec2024 04:10:39.348] [Server thread/INFO] [simpleradio/]: Added receiver 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 to frequency 000.00
+[08Dec2024 04:10:46.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:46.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:46.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:47.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:47.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:47.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:47.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:48.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:48.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:48.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:48.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:49.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:49.202] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:49.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:49.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:10:57.651] [Server thread/INFO] [simpleradio/]: Added receiver 0ad568b6-05e3-4526-9dae-fa5865b57ad6 to frequency 007.13
+[08Dec2024 04:10:59.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:11:00.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:11:25.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to OscarJapi]
+[08Dec2024 04:11:28.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported TheMasterRoshiii to Dark_inng]
+[08Dec2024 04:11:33.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to poopy8]
+[08Dec2024 04:11:43.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported SoulO_Q to Dark_inng]
+[08Dec2024 04:12:26.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> nah
+[08Dec2024 04:12:50.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy fell out of the world
+[08Dec2024 04:13:00.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-166, y=71, z=6}
+[08Dec2024 04:13:00.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-165, y=71, z=6}
+[08Dec2024 04:13:02.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-161, y=67, z=47} BlockPos{x=-165, y=72, z=12}
+[08Dec2024 04:13:09.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported dzbas176 to Kl0udyy]
+[08Dec2024 04:13:11.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: dzbas176 moved too quickly! 0.0,-10.552241243705605,0.0
+[08Dec2024 04:13:18.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 fell out of the world
+[08Dec2024 04:13:19.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to OscarJapi]
+[08Dec2024 04:13:20.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to dzbas176]
+[08Dec2024 04:13:24.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 fell out of the world
+[08Dec2024 04:13:36.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to OscarJapi]
+[08Dec2024 04:13:36.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 fell out of the world
+[08Dec2024 04:13:39.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Survival Mode]
+[08Dec2024 04:13:40.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=72, z=12}
+[08Dec2024 04:13:41.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 fell out of the world
+[08Dec2024 04:13:42.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy fell out of the world
+[08Dec2024 04:13:45.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OscarJapi> poopy8 ? xd
+[08Dec2024 04:13:46.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported poopy8 to Dark_inng]
+[08Dec2024 04:13:52.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 fell out of the world
+[08Dec2024 04:13:57.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q fell out of the world
+[08Dec2024 04:14:00.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng fell out of the world
+[08Dec2024 04:14:02.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-164, y=73, z=10}
+[08Dec2024 04:14:02.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> bomba
+[08Dec2024 04:14:15.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-167, y=72, z=8}
+[08Dec2024 04:14:15.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=72, z=9}
+[08Dec2024 04:14:17.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
+[08Dec2024 04:14:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported dzbas176 to Kl0udyy]
+[08Dec2024 04:14:22.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was doomed to fall by Kl0udyy
+[08Dec2024 04:14:23.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has reached the goal [Sky's the Limit]
+[08Dec2024 04:14:26.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Teleported 7 entities to TheMasterRoshiii]
+[08Dec2024 04:14:30.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-166, y=70, z=13}
+[08Dec2024 04:14:30.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=70, z=12}
+[08Dec2024 04:14:31.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=70, z=12}
+[08Dec2024 04:14:31.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=69, z=12}
+[08Dec2024 04:14:32.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-165, y=72, z=12}
+[08Dec2024 04:14:33.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported 7 entities to OscarJapi]
+[08Dec2024 04:14:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> aaaaa
+[08Dec2024 04:14:41.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 fell out of the world
+[08Dec2024 04:14:41.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 fell out of the world
+[08Dec2024 04:14:41.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii fell out of the world
+[08Dec2024 04:14:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported poopy8 to Dark_inng]
+[08Dec2024 04:14:44.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported poopy8 to Dark_inng]
+[08Dec2024 04:14:51.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
+[08Dec2024 04:14:51.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set Kl0udyy's game mode to Survival Mode]
+[08Dec2024 04:14:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set SoulO_Q's game mode to Survival Mode]
+[08Dec2024 04:14:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set Dark_inng's game mode to Survival Mode]
+[08Dec2024 04:14:51.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set TheMasterRoshiii's game mode to Survival Mode]
+[08Dec2024 04:14:56.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-170, y=74, z=8}
+[08Dec2024 04:14:57.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Spectator Mode]
+[08Dec2024 04:15:00.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Set own game mode to Creative Mode]
+[08Dec2024 04:15:06.592] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Timed out
+[08Dec2024 04:15:06.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
+[08Dec2024 04:15:06.593] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
+[08Dec2024 04:15:17.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 fell out of the world
+[08Dec2024 04:15:19.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Teleported 6 entities to OscarJapi]
+[08Dec2024 04:15:20.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set own game mode to Survival Mode]
+[08Dec2024 04:15:20.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set Kl0udyy's game mode to Survival Mode]
+[08Dec2024 04:15:20.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OscarJapi: Set SoulO_Q's game mode to Survival Mode]
+[08Dec2024 04:15:24.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Set own game mode to Creative Mode]
+[08Dec2024 04:15:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q experienced kinetic energy
+[08Dec2024 04:15:26.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy fell out of the world
+[08Dec2024 04:15:26.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 fell out of the world
+[08Dec2024 04:15:26.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng fell out of the world
+[08Dec2024 04:15:26.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi fell out of the world
+[08Dec2024 04:15:58.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OscarJapi lost connection: Disconnected
+[08Dec2024 04:15:58.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OscarJapi left the game
+[08Dec2024 04:15:58.840] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client OscarJapi
+[08Dec2024 04:16:11.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Amateur Archaeologist]
+[08Dec2024 04:17:06.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-168, y=72, z=15}
+[08Dec2024 04:17:42.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.3.80.124:43671] logged in with entity id 29986 at (-164.5, 71.0, 2.5)
+[08Dec2024 04:17:42.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
+[08Dec2024 04:17:42.679] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
+[08Dec2024 04:17:42.681] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
+[08Dec2024 04:17:49.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 04:17:50.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1567f6a1-8406-3181-bf29-77992b07c623
+[08Dec2024 04:17:50.930] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheMasterRoshiii (1567f6a1-8406-3181-bf29-77992b07c623) successfully connected to voice chat
+[08Dec2024 04:17:58.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Crops of the Wild]
+[08Dec2024 04:17:59.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> oda
+[08Dec2024 04:18:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 has made the advancement [Crops of the Wild]
+[08Dec2024 04:18:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Gamerule keepInventory is now set to: true]
+[08Dec2024 04:18:14.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> se camuflaaaaaa
+[08Dec2024 04:18:27.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> subanle el volumen ustedes
+[08Dec2024 04:18:35.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> yo la escucho bien
+[08Dec2024 04:18:38.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> como en dc
+[08Dec2024 04:18:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheMasterRoshiii> ccon carteles
