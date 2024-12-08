@@ -29,7 +29,9 @@
       "minecraft:birch_forest": "2024-12-08 04:31:32 +0000",
       "minecraft:beach": "2024-12-08 03:12:14 +0000",
       "minecraft:river": "2024-12-08 04:47:57 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-08 04:53:47 +0000"
+      "minecraft:lush_caves": "2024-12-08 04:58:18 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-08 04:53:47 +0000",
+      "minecraft:deep_dark": "2024-12-08 05:14:22 +0000"
     },
     "done": false
   },
@@ -543,7 +545,8 @@
       "spider_eye": "2024-12-08 04:26:25 +0000",
       "bread": "2024-12-08 03:20:45 +0000",
       "cookie": "2024-12-08 04:50:10 +0000",
-      "rotten_flesh": "2024-12-08 04:20:22 +0000"
+      "rotten_flesh": "2024-12-08 04:20:22 +0000",
+      "glow_berries": "2024-12-08 05:05:29 +0000"
     },
     "done": false
   },
@@ -1090,6 +1093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-08 04:37:42 +0000"
@@ -1099,6 +1108,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
     },
     "done": true
   },
@@ -1117,6 +1132,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2024-12-08 04:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-08 05:10:17 +0000"
     },
     "done": true
   },
@@ -1150,6 +1171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:37:36 +0000"
@@ -1171,6 +1198,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
     },
     "done": true
   },
@@ -1210,9 +1243,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-08 04:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
     },
     "done": true
   },
@@ -1222,9 +1267,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-08 05:10:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2024-12-08 04:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
     },
     "done": true
   },
@@ -1354,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:37:36 +0000"
@@ -1426,6 +1489,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-08 04:26:11 +0000"
@@ -1492,6 +1561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 04:58:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-08 04:38:38 +0000"
@@ -1501,6 +1576,18 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-08 04:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 05:05:27 +0000"
     },
     "done": true
   },
@@ -1799,6 +1886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-08 04:43:54 +0000"
@@ -1808,6 +1901,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-08 04:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
     },
     "done": true
   },
@@ -1862,6 +1961,12 @@
   "simpleradio:recipes/misc/transmitting_module": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 04:58:44 +0000"
     },
     "done": true
   },
@@ -1925,6 +2030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-08 05:15:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-08 04:38:38 +0000"
@@ -1946,6 +2057,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-08 04:38:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
     },
     "done": true
   },
@@ -2027,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-08 04:58:44 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2024-12-08 04:37:36 +0000"
@@ -2054,6 +2177,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 04:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:56:28 +0000"
     },
     "done": true
   },

@@ -80,7 +80,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 04:59:39 +0000",
       "minecraft:spider": "2024-12-08 04:33:56 +0000",
+      "minecraft:creeper": "2024-12-08 05:20:00 +0000",
+      "minecraft:witch": "2024-12-08 04:59:58 +0000",
       "minecraft:zombie": "2024-12-08 03:43:24 +0000"
     },
     "done": false
@@ -145,6 +148,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-08 04:58:44 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 04:27:17 +0000"
@@ -175,6 +184,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-08 05:08:41 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/bone_pile": {
     "criteria": {
       "has_bone": "2024-12-08 04:24:21 +0000"
@@ -187,6 +202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-08 04:39:03 +0000"
@@ -196,6 +217,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
     },
     "done": true
   },
@@ -247,6 +274,12 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-08 04:27:34 +0000"
@@ -277,6 +310,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:34:22 +0000"
@@ -292,6 +331,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
     },
     "done": true
   },
@@ -313,9 +358,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
     },
     "done": true
   },
@@ -325,9 +388,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/wooden": {
     "criteria": {
       "has_item": "2024-12-08 04:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
     },
     "done": true
   },
@@ -340,6 +415,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2024-12-08 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
     },
     "done": true
   },
@@ -358,6 +439,12 @@
   "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
     },
     "done": true
   },
@@ -463,6 +550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2024-12-08 04:34:22 +0000"
@@ -490,6 +583,12 @@
   "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
     "criteria": {
       "has_bone": "2024-12-08 04:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
     },
     "done": true
   },
@@ -601,15 +700,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-08 03:55:12 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
+    },
+    "done": true
+  },
+  "simpleradio:recipes/misc/receiving_module": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-08 04:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
     },
     "done": true
   },
@@ -685,9 +808,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-08 04:34:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
     },
     "done": true
   },
@@ -712,6 +847,12 @@
   "valhelsia_structures:recipes/building_blocks/cyan_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2024-12-08 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
     },
     "done": true
   },
@@ -811,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:34:22 +0000"
@@ -899,6 +1046,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-08 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-08 04:59:40 +0000"
     },
     "done": true
   },
@@ -992,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:34:22 +0000"
@@ -1040,15 +1199,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 04:27:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 05:13:13 +0000"
     },
     "done": true
   },
@@ -1088,6 +1265,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2024-12-08 04:14:23 +0000"
@@ -1118,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/misc/paraglider": {
     "criteria": {
       "has_stick": "2024-12-08 04:27:20 +0000"
@@ -1133,6 +1322,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
     },
     "done": true
   },
@@ -1244,6 +1439,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2024-12-08 04:34:22 +0000"
@@ -1256,6 +1463,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-08 05:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2024-12-08 04:34:22 +0000"
@@ -1265,6 +1484,12 @@
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2024-12-08 04:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 05:20:02 +0000"
     },
     "done": true
   },
@@ -1299,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 05:20:02 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 04:27:17 +0000"
@@ -1326,6 +1557,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-08 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 05:13:13 +0000"
     },
     "done": true
   },
@@ -1377,9 +1614,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-08 04:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-12-08 04:59:59 +0000"
     },
     "done": true
   },

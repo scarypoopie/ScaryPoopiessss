@@ -1910,3 +1910,96 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Dec2024 04:59:58.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
 [08Dec2024 04:59:59.168] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
 [08Dec2024 04:59:59.169] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:00:08.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Spider
+[08Dec2024 05:00:09.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to poopy8]
+[08Dec2024 05:00:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to SoulO_Q]
+[08Dec2024 05:00:17.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-154, y=78, z=5}
+[08Dec2024 05:00:18.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-154, y=79, z=5}
+[08Dec2024 05:00:23.380] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-152, y=76, z=6}
+[08Dec2024 05:00:25.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [Diamonds!]
+[08Dec2024 05:00:27.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-152, y=73, z=-2}
+[08Dec2024 05:00:27.329] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-151, y=73, z=-2}
+[08Dec2024 05:00:27.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-151, y=74, z=-2}
+[08Dec2024 05:00:27.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-151, y=73, z=-3}
+[08Dec2024 05:00:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> a nono
+[08Dec2024 05:00:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to poopy8]
+[08Dec2024 05:00:48.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> no fui yo
+[08Dec2024 05:01:01.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:01:02.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:01:02.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 05:01:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> crei que preguntabas si yo me hice tp
+[08Dec2024 05:01:16.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dark_inng: Teleported Dark_inng to poopy8]
+[08Dec2024 05:02:30.393] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kl0udyy moved too quickly! 8.19166281696755,-2.7057056529353964,5.364540602330038
+[08Dec2024 05:02:33.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was slain by Zombie
+[08Dec2024 05:02:40.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to Dark_inng]
+[08Dec2024 05:02:52.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy has made the advancement [The Cutest Predator]
+[08Dec2024 05:03:30.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kl0udyy was shot by Skeleton
+[08Dec2024 05:03:33.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was shot by Skeleton
+[08Dec2024 05:03:38.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to SoulO_Q]
+[08Dec2024 05:04:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dzbas176 was slain by Rotting Stalker
+[08Dec2024 05:04:24.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> ya nos vamos, no?
+[08Dec2024 05:04:24.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng was slain by Doppelganger Cow
+[08Dec2024 05:04:44.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dzbas176> tpppppppppp
+[08Dec2024 05:04:45.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 was shot by Skeleton
+[08Dec2024 05:04:52.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported dzbas176 to Kl0udyy]
+[08Dec2024 05:04:56.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 06466493-6fc5-3c27-9ae5-a2bd0c2cf4c1 timed out
+[08Dec2024 05:04:56.997] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Dark_inng
+[08Dec2024 05:04:56.998] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Dark_inng
+[08Dec2024 05:05:06.294] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dark_inng lost connection: Timed out
+[08Dec2024 05:05:06.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dark_inng left the game
+[08Dec2024 05:05:06.294] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dark_inng
+[08Dec2024 05:05:21.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to poopy8]
+[08Dec2024 05:06:03.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Teleported Kl0udyy to poopy8]
+[08Dec2024 05:06:14.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb timed out
+[08Dec2024 05:06:14.412] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player poopy8
+[08Dec2024 05:06:14.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:06:20.339] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:06:21.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:06:21.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 05:06:35.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb timed out
+[08Dec2024 05:06:35.554] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player poopy8
+[08Dec2024 05:06:35.555] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:06:37.626] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:06:38.630] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:06:38.631] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 05:07:10.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb timed out
+[08Dec2024 05:07:10.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player poopy8
+[08Dec2024 05:07:10.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:07:29.447] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 05:07:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 05:07:29.448] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 05:08:16.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:37867] logged in with entity id 46073 at (-189.69999998807907, 22.0, -0.5849646469196046)
+[08Dec2024 05:08:16.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[08Dec2024 05:08:40.506] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[08Dec2024 05:08:40.507] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:08:41.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q has made the advancement [Not Today, Thank You]
+[08Dec2024 05:09:04.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:09:05.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:09:05.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 05:09:20.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Teleported SoulO_Q to poopy8]
+[08Dec2024 05:10:56.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] siguen ahi?
+[08Dec2024 05:10:57.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb timed out
+[08Dec2024 05:10:57.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player poopy8
+[08Dec2024 05:10:57.025] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:10:59.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SoulO_Q> si
+[08Dec2024 05:11:01.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kl0udyy> si
+[08Dec2024 05:11:02.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 05:11:02.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 05:11:02.196] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8
+[08Dec2024 05:12:12.049] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c16a4ce[id=<null>,name=poopy8,properties={},legacy=false] (/127.19.66.44:42873) lost connection: Timed out
+[08Dec2024 05:12:26.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: poopy8[/127.19.66.44:39747] logged in with entity id 47402 at (-208.53649527811857, 22.0, -6.213900054061687)
+[08Dec2024 05:12:26.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 joined the game
+[08Dec2024 05:12:26.752] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of poopy8 (18)
+[08Dec2024 05:12:26.753] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:12:36.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:12:37.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player bc5a894c-1b12-380a-9830-e8d07c103dcb
+[08Dec2024 05:12:37.208] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player poopy8 (bc5a894c-1b12-380a-9830-e8d07c103dcb) successfully connected to voice chat
+[08Dec2024 05:14:13.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SoulO_Q was slain by Rotting Stalker
+[08Dec2024 05:14:25.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SoulO_Q: Teleported SoulO_Q to poopy8]
+[08Dec2024 05:15:24.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kl0udyy: Set Kl0udyy's sanity to 100.0]
+[08Dec2024 05:18:53.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player bc5a894c-1b12-380a-9830-e8d07c103dcb timed out
+[08Dec2024 05:18:53.587] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player poopy8
+[08Dec2024 05:18:53.588] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to poopy8
+[08Dec2024 05:18:57.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: poopy8 lost connection: Timed out
+[08Dec2024 05:18:57.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: poopy8 left the game
+[08Dec2024 05:18:57.148] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client poopy8

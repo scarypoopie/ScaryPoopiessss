@@ -481,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-08 04:43:54 +0000"
@@ -496,6 +502,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_stool": {
     "criteria": {
       "has_red_wool": "2024-12-08 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -565,6 +577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:38:27 +0000"
@@ -580,6 +598,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 04:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -613,9 +637,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-08 04:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -646,6 +682,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-08 04:35:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -747,7 +789,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 04:57:41 +0000",
       "minecraft:creeper": "2024-12-08 04:24:48 +0000",
+      "minecraft:zombie": "2024-12-08 04:56:19 +0000",
       "minecraft:drowned": "2024-12-08 04:52:56 +0000"
     },
     "done": false
@@ -773,6 +817,12 @@
   "valhelsia_structures:recipes/misc/bone_pile_block_from_bone": {
     "criteria": {
       "has_bone": "2024-12-08 03:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -839,6 +889,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
     "criteria": {
       "has_red_wool": "2024-12-08 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -941,6 +997,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-08 04:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -1359,6 +1421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/red_sleeping_bag": {
     "criteria": {
       "has_red_wool": "2024-12-08 04:40:03 +0000"
@@ -1380,6 +1448,18 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_stool": {
     "criteria": {
       "has_red_wool": "2024-12-08 04:40:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 04:55:54 +0000"
     },
     "done": true
   },
@@ -1509,6 +1589,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2024-12-08 04:57:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-08 04:28:28 +0000"
@@ -1548,6 +1634,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-08 04:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
@@ -1695,6 +1787,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 03:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 04:55:17 +0000"
     },
     "done": true
   },
