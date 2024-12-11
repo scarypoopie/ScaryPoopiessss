@@ -190,3 +190,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Dec2024 19:43:42.378] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheMasterRoshiii (1567f6a1-8406-3181-bf29-77992b07c623) successfully connected to voice chat
 [11Dec2024 19:46:01.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Added 100.0 sanity to TheMasterRoshiii]
 [11Dec2024 19:48:20.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TheMasterRoshiii: Set own game mode to Creative Mode]
+[11Dec2024 19:49:04.023] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[11Dec2024 19:53:30.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheMasterRoshiii lost connection: Timed out
+[11Dec2024 19:53:30.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii left the game
+[11Dec2024 19:53:30.798] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client TheMasterRoshiii
+[11Dec2024 19:53:55.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheMasterRoshiii[/127.171.252.165:55775] logged in with entity id 1633 at (-161.90691801539958, 72.0, 11.940800480607185)
+[11Dec2024 19:53:55.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii joined the game
+[11Dec2024 19:53:56.131] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of TheMasterRoshiii (18)
+[11Dec2024 19:53:56.132] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to TheMasterRoshiii
+[11Dec2024 19:53:56.182] [Server thread/INFO] [simpleradio/]: Added receiver 9eac100e-cb94-4b12-b24f-076d0b1e9e06 to frequency 007.13
+[11Dec2024 19:54:02.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 1567f6a1-8406-3181-bf29-77992b07c623
+[11Dec2024 19:54:03.058] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 1567f6a1-8406-3181-bf29-77992b07c623
+[11Dec2024 19:54:03.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player TheMasterRoshiii (1567f6a1-8406-3181-bf29-77992b07c623) successfully connected to voice chat
+[11Dec2024 19:54:55.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheMasterRoshiii has reached the goal [Sky's the Limit]
+[11Dec2024 19:56:20.423] [Server thread/INFO] [simpleradio/]: Added receiver e42bc7b4-8a90-43ea-86f1-3136800a2718 to frequency 007.13
